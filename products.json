@@ -1,0 +1,16 @@
+[
+    {
+    "_id": 1,
+    "title": "iphone 12",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 549,
+    "brand": "Apple",
+    "category": "Technology",
+    "images":  "https://i.dummyjson.com/data/products/1/4.jpg"
+    },
+    
+    
+    {
+
+    }
+]
