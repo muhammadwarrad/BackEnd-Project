@@ -7,10 +7,10 @@ dotenv.config()
 let mongooseConnectionConfig = { useNewUrlParser: true, useUnifiedTopology: true}
 mongoose.set('strictQuery', true)
 
-//Connect
-
+//Assign URL
 const url = process.env.MONGO_URL || 'mongodb://localhost:27017/ProductData'
 
+//Mongoose Connect
 mongoose.connect(url, mongooseConnectionConfig)
 
 mongoose.connection.on('connected', ()=> console.log("Connected to database"))
