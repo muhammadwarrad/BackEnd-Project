@@ -253,7 +253,7 @@
     "price": 40,
     "brand": "JanSport",
     "category": "Bags",
-    "images":  "https://images.jansport.com/is/image/JanSport/JS0A4QVG_008_front?$WC-FULLIMAGE$"
+    "images": "https://images.jansport.com/is/image/JanSport/JS0A4QVG_008_front?$WC-FULLIMAGE$"
     
 },
 {
@@ -283,7 +283,7 @@
     "price": 2600,
     "brand": "Gucci",
     "category": "Bags",
-    "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1663175706/631685_UM8IG_1000_006_100_0000_Light-GG-Matelass-medium-tote.jpg"
+    "images": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1663175706/631685_UM8IG_1000_006_100_0000_Light-GG-Matelass-medium-tote.jpg"
     
 },
 {
@@ -293,199 +293,197 @@
     "price": 83,
     "brand": "G-Shock",
     "category": "Watches",
-    "images":  "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq01.png.transform/main-visual-sp/image.png"
+    "images": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq01.png.transform/main-visual-sp/image.png"
     
 },
 {
     "productId": 32,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": " Grant Stainless Steel Quartz",
+    "description": "Rose gold-tone stainless steel case with navy blue sunray dial; genuine navy blue leather band with adjustable buckle closure",
+    "price": 100 ,
+    "brand": "Fossil",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://m.media-amazon.com/images/I/816CeVsSkAL._AC_UX679_.jpg"
     
 },
 {
     "productId": 33,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Chronograph Diamond Swiss Luxury ",
+    "description": "The watch case & bracelet is crafted from polished stainless steel, dazzling diamond set bezel, white pearl dial",
+    "price": 1600,
+    "brand": "Michele Deco",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://m.media-amazon.com/images/I/614F-58TOwL._AC_UY879_.jpg"
     
 },
 {
     "productId": 34,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Air King",
+    "description": "The Oyster Perpetual Air-King pays tribute to the pioneers of flight and the Oyster’s roles in the epic story of aviation.",
+    "price": 7450,
+    "brand": "Rolex",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://content.rolex.com/dam/2022-11/upright-bba-with-shadow/m126900-0001.png?impolicy=v6-main-feature&c1x=1800&c1y=2800&imwidth=840"
     
 },
 {
     "productId": 35,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Miller",
+    "description": " An oversized tonal Double T within a gold dial. It is finished with a braided leather band, inspired by the artistry of basket-weaving.",
+    "price": 250 ,
+    "brand": "Tory Burch",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/miller-watch--luggage-leather-gold-tone-stainless-steel-front.TB_144616_000_SLFRO.pdp-720x819.jpg"
     
 },
 {
     "productId": 36,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Intrepid Sport",
+    "description": "Features scratch and scrape resistant, sapphire-coated curved glass, and three subdials to display the day, date, and also a 24-hour function.",
+    "price": 200,
+    "brand": "Ralph Christian",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://cdn.shopify.com/s/files/1/2784/4648/products/TheIntrepidSport-RoseGold-Packshot_a305f067-fc42-4fb7-b739-4a4d4f779d64_1140x1140.png?v=1667314519"
     
 },
 {
     "productId": 37,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Maestro-233",
+    "description": "Good looking, functional, dependable, we create Maestro in ten variants depending on case color paired with available colors of custom silicone bands",
+    "price": 450,
+    "brand": "Giorgio Milano",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://cdn.shopify.com/s/files/1/2423/7271/products/maestro-goldblue-giorgio-milano-watches-866.jpg?v=1651682566"
     
 },
 {
     "productId": 38,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Swiss Bold",
+    "description": "A timeless and masculine leather watch with a minimalist design from Movado's Bold Access collection",
+    "price": 350,
+    "brand": "Movado",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/22704629_fpx.tif?op_sharpen=1&wid=500&hei=611&fit=fit,1&fmt=webp"
     
 },
 {
     "productId": 39,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
+    "title": "Chrono XL Classic",
+    "description": "Classic is a great watch for those looking for a sporty and elegant chronograph, with Swiss technology at an unbeatable price.",
+    "price": 400,
+    "brand": "Tissot",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T116.617.11.047.01_R_1.png?im=Resize=(850,850)"
     
 },
 {
     "productId": 40,
-    "title": "",
+    "title": "Dive Watch",
     "description": "",
-    "price": ,
-    "brand": "",
+    "price": 1750,
+    "brand": "Gucci",
     "category": "Watches",
-    "images":  ""
+    "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659392243/559817_I8610_8757_001_100_0000_Light-Gucci-Dive-watch-45mm.jpg"
     
 },
 {
     "productId": 41,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "Shirts",
-    "images":  ""
+    "title": "DiorXtrem MU",
+    "description": "bold sportswear look combined with an innovative and technical design",
+    "price": 650,
+    "brand": "Dior",
+    "category": "Sunglasses",
+    "images":  "https://media.dior.com/couture/ecommerce/media/catalog/product/X/Y/1609783831_XTRMMUAT_10B8_E01_ZH.jpg"
     
 },
 {
     "productId": 42,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Burberry Eyewear Shield Frame",
+    "description": "Made in Italy black and gold",
+    "price": 176,
+    "brand": "Burberry",
+    "category": "Sunglasses",
+    "images":  "https://img-static.tradesy.com/item/27056646/burberry-black-logomania-4291-shield-gold-mirrored-be4291s-unisex-sunglasses-0-1-650-650.jpg"
     
 },
 {
     "productId": 43,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Shadow Square",
+    "description": "sleek and sporty shape is complemented by a striking mirror lens. Polished Monogram Flowers appear at the end pieces",
+    "price": 575,
+    "brand": "Louis Vuitton",
+    "category": "Sunglasses",
+    "images": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-shadow-square-sunglasses-s00-sunglasses--Z1844U_PM2_Front%20view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
     
 },
 {
     "productId": 44,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Waimea ",
+    "description": "The striking mask-shaped frame is enlivened with Monogram-patterned lenses for a bold twist",
+    "price":640 ,
+    "brand": "Louis Vuitton",
+    "category": "Sunglasses",
+    "images":  "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-waimea-sunglasses-s00-sunglasses--Z1082E_PM2_Front%20view.png?wid=2048&hei=2048"
     
 },
 {
     "productId": 45,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Aviator Flash",
+    "description": "Flash Lenses reinvented the standards of the market with its unique teardrop shape and flash lens combination.",
+    "price": 190,
+    "brand": "Ray Ban",
+    "category": "Sunglasses",
+    "images":  "https://images.ray-ban.com/is/image/RayBan/8053672339000__STD__shad__qt.png?impolicy=RB_Product&width=2048&bgc=%23f2f2f2"
     
 },
 {
     "productId": 46,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Cozy Coupe",
+    "description": "The original ride-on Cozy Coupe is guaranteed to bring your todder fun, enjoyment, and play",
+    "price": 64,
+    "brand": "Little Tikes",
+    "category": "Toys",
+    "images":  "https://target.scene7.com/is/image/Target/GUEST_da15abe0-db44-4fa1-9b70-d2cbee2a052b?wid=1000&hei=1000&qlt=80&fmt=webp"
     
 },
 {
     "productId": 47,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Lightning McQueen Offroad RC",
+    "description": "Lightning McQueen makes his return to the track in radio control form in this 1:14 scale RC inspired by Disney/Pixar Cars!",
+    "price": 45,
+    "brand": "Disney Pixar Cars",
+    "category": "Toys",
+    "images":  "https://target.scene7.com/is/image/Target/GUEST_d1d72ec5-3f89-45f5-af4b-3e4b83f88971?wid=1000&hei=1000&qlt=80&fmt=webp"
     
 },
 {
     "productId": 48,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "42083 Race Car Building Kit",
+    "description": "The perfect gift for car lovers and future engineers! Build and experience a quintessential collectible sports car  the LEGO Technic Bugatti Chiron",
+    "price": 430,
+    "brand": "Lego",
+    "category": "Toys",
+    "images":  "https://m.media-amazon.com/images/I/91B2ftaRW7L._AC_SL1500_.jpg"
     
 },
 {
     "productId": 49,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "Scepter 24 Mountain Bike",
+    "description": "Steel mountain frame with suspension fork to smooth bumps and increase control on the trail",
+    "price": 230,
+    "brand": "Mongoose ",
+    "category": "Toys",
+    "images":  "https://target.scene7.com/is/image/Target/GUEST_815fc353-4d87-4e15-b98e-a930aae7696b?wid=1000&hei=1000&qlt=80&fmt=webp"
     
 },
 {
     "productId": 50,
-    "title": "",
-    "description": "",
-    "price": ,
-    "brand": "",
-    "category": "",
-    "images":  ""
+    "title": "TotSports Basketball",
+    "description": "Your little one will start learning sports and active play early with this TotSports basketball hoop and basketball",
+    "price": 30,
+    "brand": "Little Tikes",
+    "category": "Toys",
+    "images":  "https://cfcdn.zulily.com/images/cache/product/1692x2030/572329/zu101219813_main_tm1660660632.jpg"
     
 }
-
-
 ]
