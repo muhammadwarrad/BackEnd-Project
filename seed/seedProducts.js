@@ -1,5 +1,4 @@
 //imports
-// import mongoose from 'mongoose'
 import db from '../db/connection.js'
 import data from '../db/products.json' assert { type: 'json' }
 import Products from '../models/Products.js'
