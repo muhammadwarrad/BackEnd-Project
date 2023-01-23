@@ -1,5 +1,7 @@
+// Import products model
 import Products from "../models/Products.js";
 
+// Exports all products
 export const getProducts = async (req, res) => {
   try {
     const products = await Products.find();
@@ -10,6 +12,7 @@ export const getProducts = async (req, res) => {
   }
 };
 
+// Exports certain product
 export const getProduct = async (req, res) => {
   try {
     const { id } = req.params;
@@ -26,6 +29,7 @@ export const getProduct = async (req, res) => {
   }
 };
 
+// Creates product
 export const createProduct = async (req, res) => {
   try {
     const product = new Products(req.body);
@@ -37,6 +41,7 @@ export const createProduct = async (req, res) => {
   }
 };
 
+// Updates product
 export const updateProduct = async (req, res) => {
   try {
     const { id } = req.params;
@@ -48,6 +53,7 @@ export const updateProduct = async (req, res) => {
   }
 };
 
+// Deletes product
 export const deleteProduct = async (req, res) => {
   try {
     const { id } = req.params;

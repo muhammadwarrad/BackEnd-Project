@@ -1,6 +1,7 @@
-//Import Model
+// Import users model
 import Users from "../models/Users.js";
 
+// Exports all users
 export const getUsers = async (req, res) => {
   try {
     const users = await Users.find();
@@ -11,6 +12,7 @@ export const getUsers = async (req, res) => {
   }
 };
 
+// Export certain user
 export const getUser = async (req, res) => {
   try {
     const { id } = req.params;
@@ -27,6 +29,7 @@ export const getUser = async (req, res) => {
   }
 };
 
+// Creates user
 export const createUser = async (req, res) => {
   try {
     const user = new Users(req.body);
@@ -38,6 +41,7 @@ export const createUser = async (req, res) => {
   }
 };
 
+// Updates user
 export const updateUser = async (req, res) => {
   try {
     const { id } = req.params;
@@ -49,6 +53,7 @@ export const updateUser = async (req, res) => {
   }
 };
 
+// Deletes user
 export const deleteUser = async (req, res) => {
   try {
     const { id } = req.params;
