@@ -1,22 +1,24 @@
-//Imports
+// Imports
 import db from "./db/connection.js"
 import routes from "./routes/index.js"
-//Import Dependencies
+// Import Dependencies
 import cors from 'cors'
 import express from "express";
 import dotenv from 'dotenv'
+
+// Configure .env
 dotenv.config()
 
-//variables
+// Variables
 const app = express();
 const PORT = process.env.PORT || process.env.LOCAL_PORT;
 
-//Uses
+// Uses
 app.use(express.json());
 app.use("/", routes);
 app.use(cors)
 
-//db connection
+// Db connection
 db.on("connected", () => {
   console.clear();
   console.log("Connected to MongoDB");
