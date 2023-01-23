@@ -8,7 +8,6 @@
     "category": "Technology",
     "images":  "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-graphite-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202842000"
     },
-    
     {
         "productId": 2,
         "title": "Galaxy S22",
@@ -484,6 +483,95 @@
     "brand": "Little Tikes",
     "category": "Toys",
     "images":  "https://cfcdn.zulily.com/images/cache/product/1692x2030/572329/zu101219813_main_tm1660660632.jpg"
-    
+},
+{
+    "productId": 51,
+    "title": "Market X Smiley Chenille Patch Trucker Hat",
+    "description": "Classic look trucker hat by Market with a Smiley patch accent at the front. Mesh paneled cap with an adjustable snap closure and a curved brim",
+    "price": 45,
+    "brand": "Market X Smiley",
+    "category": "Hats",
+    "images":  "https://images.urbndata.com/is/image/UrbanOutfitters/76150903_020_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=1314"
+},
+{
+    "productId": 52,
+    "title": "Bass Pro Shops Mesh Trucker Cap",
+    "description": "This fishing hat features a screen-printed Bass Pro Shops logo on the front and is a sharp-looking addition to your hat collection",
+    "price": 6,
+    "brand": "Bass Pro Shops",
+    "category": "Hats",
+    "images":  "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_limit,dpr_1.0,f_auto,h_1697,q_auto,w_1600/c_limit,h_1697,w_1600/v1/ProductImages/600/fuchsia_28333_main?pgw=1"
+},
+{
+    "productId": 53,
+    "title": "Carhartt Blackberry Knit Cuffed Beanie",
+    "description": "Rib knit quality for extra warmth and comfort with signature Carhartt label on the front",
+    "price": 16,
+    "brand": "Carhartt",
+    "category": "Hats",
+    "images":  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRda8tHBRyCOvn0M0irjtHdxbCCg1c8BsBNYw6Oh2BEVK1aQW0vd1by1Fw9alFP90ERFAW7vmkYo7Lxg2V8obXQnZiRwRY1Gk6QJDFPvveW&usqp=CAY"
+},
+{
+    "productId": 54,
+    "title": "Goorin River Gray Fedora Hat",
+    "description": "Fedora hat with a 4-inch teardrop crown, pinched bow, and edge binding",
+    "price": 250,
+    "brand": "Goorin",
+    "category": "Hats",
+    "images":  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmN449zTh7s8BFBI-t-uJqVMZj2lqklmKwgE9pt6HWAN6FLiY4a-7fxvCi4fJpX0mvcIG5Mv6I6aBuohdCABRhUfS_oVpO&usqp=CAY"
+},
+{
+    "productId": 55,
+    "title": "Nike Sportswear Bucket Hat Light Bone",
+    "description": "Bucket hat with washed twill fabric on the crown, sweatband to help keep you cool and dry, and embroidered Nike graphic at center front",
+    "price": 22,
+    "brand": "Nike",
+    "category": "Hats",
+    "images":  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYxDAl522b-gSOlH3HUtOVA3rgG800IQNJm4YJ2pHIGb2OzDQQC_hHs-7if4T_UbGRD0F-MgiCZg3KyGo2vtVQ_g6lBZRvnw&usqp=CAY"
+},
+{
+    "productId": 56,
+    "title": "Orizaba Short Down Jacket",
+    "description": "A contemporary take on a classic men's down jacket, the Orizaba short puffer is crafted from nylon laqué",
+    "price": 2095,
+    "brand": "Moncler",
+    "category": "Jackets",
+    "images":  "https://moncler-cdn.thron.com/delivery/public/image/moncler/H20911A002745963V999_R/dpx6uv/std/0x0/H20911A002745963V999_R.jpg"
+},
+{
+    "productId": 57,
+    "title": "Shelburne Parka Heritage",
+    "description": "This thigh-length Shelburne Parka is the perfect jacket for those frigid days when you require maximum protection",
+    "price": 1495,
+    "brand": "Canada Goose",
+    "category": "Jackets",
+    "images":  "https://images.canadagoose.com/image/upload/w_480,c_scale,f_auto,q_auto:best/v1635625362/product-image/3802L_63_o.png"
+},
+{
+    "productId": 58,
+    "title": "Check Cropped Puffer Jacket",
+    "description": "A cropped puffer jacket generously filled with goose down and feathers, highlighted with an exploded check pattern",
+    "price": 1650,
+    "brand": "Burberry",
+    "category": "Jackets",
+    "images":  "https://assets.burberry.com/is/image/Burberryltd/659D0B1F-0FCD-4220-A818-2091FB8E1B3E?$BBY_V2_SL_1x1$&wid=998&hei=998"
+},
+{
+    "productId": 59,
+    "title": "Ultra Light Down Jacket (2021 edition)",
+    "description": "Thin, light and warm down jacket. Attention to detail balances design and comfort",
+    "price": 40,
+    "brand": "Uniqlo",
+    "category": "Jackets",
+    "images":  "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/443318/item/goods_30_443318.jpg?width=425"
+},
+{
+    "productId": 60,
+    "title": "Men's '92 Retro Anniversary Nuptse Jacket",
+    "description": "With a throwback design, a relaxed, boxy fit, and 700-fill down insulation, you can rely on the durable and time-tested warmth to help you get where you're going",
+    "price": 350,
+    "brand": "The North Face",
+    "category": "Jackets",
+    "images":  "https://images.thenorthface.com/is/image/TheNorthFace/NF0A7WWB_682_altfront?wid=1300&hei=1510&fmt=jpeg&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"
 }
 ]
