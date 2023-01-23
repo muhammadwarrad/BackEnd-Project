@@ -58,11 +58,9 @@ export const deleteProduct = async (req, res) => {
   try {
     const { id } = req.params;
     const deleted = await Products.findByIdAndDelete(id);
-
     if (deleted) {
       return res.status(200).send("Product deleted!");
     }
-
     throw new Error("Product not found");
   } catch (error) {
     console.error(error);

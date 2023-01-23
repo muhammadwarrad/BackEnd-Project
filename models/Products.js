@@ -1,6 +1,9 @@
+// Imports
 import mongoose from "mongoose";
-const Schema = mongoose.Schema;
 
+// Initialize Schema
+const Schema = mongoose.Schema;
+// Schema for Products 
 let Products = new Schema({
     "title": {type: String, required: true},
     "description": {type: String, required: true},
@@ -9,5 +12,5 @@ let Products = new Schema({
     "category": {type: String, required: true},
     "images": {type: String, required: true}
 });
-
+// Export Products Schema
 export default mongoose.model("products", Products);
