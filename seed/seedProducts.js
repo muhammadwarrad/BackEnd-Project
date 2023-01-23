@@ -1,15 +1,15 @@
 //imports
-import mongoose from 'mongoose'
+// import mongoose from 'mongoose'
 import db from '../db/connection.js'
-import data from '../db/PLACE_JSON_HERE_AND_DEL_THIS_FILE.json' assert { type: 'json' }
-// import Projects from '../models/Product.js'
+import data from '../db/products.json' assert { type: 'json' }
+import Products from '../models/Products.js'
 
 //Create Function to Insert Data
 const insertData = async () => {
     //Clear current database
     await db.dropDatabase();
     //Create database with current data
-    await Projects.create(data);
+    await Products.create(data);
     //Close database connection
     await db.close();
 };
