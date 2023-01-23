@@ -63,8 +63,32 @@ We created a model that includes user objects that contain the following fields:
 - Enhance user profile to track logins and purchase history
 - Include additional products data
 
+# Team 
 
+## **Anna Druzhinina**
+LinkedIn: https://www.linkedin.com/in/anna-druzhinina/
 
+GitHub: https://github.com/annadruzhinina
 
+## **Angela Kwon**
+LinkedIn: https://www.linkedin.com/in/angelakwon2/
+
+GitHub: https://github.com/kwonangela
+
+## **Bryant Perez**
+
+LinkedIn: https://www.linkedin.com/in/bryxntperez
+
+GitHub: https://github.com/bryxnt1
+
+## **Muhammad Warrad** 
+LinkedIn: https://www.linkedin.com/in/muhammadwarrad/
+
+GitHub: https://github.com/muhammadwarrad
+
+## **Ryan Ehrlich**
+LinkedIn: https://www.linkedin.com/in/ryanehrlich/
+
+GitHub: https://github.com/Jagerziel
 
 
