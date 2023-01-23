@@ -13,7 +13,6 @@ router.get("/", (req, res) => {
   
 //   router.use("/products", products);
 //   router.use("/users", users);
-//   router.use("/cart", cart);
 
 //Export 
 export default router;
