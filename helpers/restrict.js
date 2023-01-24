@@ -1,5 +1,11 @@
 // Imported Jwt 
 import jwt from 'jsonwebtoken'
+// Importing dotenv
+import dotenv from 'dotenv'
+
+// Configure .env
+dotenv.config()
+
 // Token Key Variable 
 const TOKEN_KEY = process.env.TOKEN_KEY || 'uikt7kiu6uthuhg6h'
 // Authorization Function 
