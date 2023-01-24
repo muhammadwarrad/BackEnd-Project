@@ -1,5 +1,39 @@
+// Import bcrypt & Jwt
+import bcrypt from 'bcrypt'
+import jwt from 'jsonwebtoken'
+
 // Import users model
 import Users from "../models/Users.js";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Exports all users
 export const getUsers = async (req, res) => {
