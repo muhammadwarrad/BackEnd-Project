@@ -201,7 +201,7 @@
     },
     {
         "title": "SuperBreak",
-        "description": "padded shoulder straps for extra cushion and comfort, a top-load design so you can pack easily, and many different ways to carry",
+        "description": "Padded shoulder straps for extra cushion and comfort",
         "price": 40,
         "brand": "JanSport",
         "category": "Bags",
@@ -209,7 +209,7 @@
     },
     {
         "title": "Ophidia GG Belt Bag",
-        "description": "rafted from GG Supreme canvas combined with the distinctive combination of the House Web with Double G hardware",
+        "description": "Crafted from GG Supreme canvas combined with the House Web",
         "price": 1150,
         "brand": "Gucci",
         "category": "Bags",
@@ -217,7 +217,7 @@
     },
     {
         "title": "Small Eleanor Bag",
-        "description": "edges that are painted by hand, to emphasize the clean lines. Its twisted rope chain is convertible: wear it doubled or long and crossbody.",
+        "description": "Hand-painted edges with a convertible twisted rope chain",
         "price": 648,
         "brand": "Tory Burch",
         "category": "Bags",
@@ -225,7 +225,7 @@
     },
     {
         "title": "Ophidia",
-        "description": "trimmed with textured leather and topped with tonal Double G hardware",
+        "description": "Trimmed with textured leather and topped with tonal Double G hardware",
         "price": 2600,
         "brand": "Gucci",
         "category": "Bags",
@@ -233,23 +233,23 @@
     },
     {
         "title": "GA2100",
-        "description": "features a round stainless steel case with a resin and carbon fiber overlay",
+        "description": "Round stainless steel case with a resin and carbon fiber overlay",
         "price": 83,
         "brand": "G-Shock",
         "category": "Watches",
         "images": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq01.png.transform/main-visual-sp/image.png"
     },
     {
-        "title": " Grant Stainless Steel Quartz",
-        "description": "Rose gold-tone stainless steel case with navy blue sunray dial; genuine navy blue leather band with adjustable buckle closure",
+        "title": "Grant Stainless Steel Quartz",
+        "description": "Rose gold-tone stainless steel case with navy blue sunray dial",
         "price": 100 ,
         "brand": "Fossil",
         "category": "Watches",
         "images":  "https://m.media-amazon.com/images/I/816CeVsSkAL._AC_UX679_.jpg"  
     },
     {
-        "title": "Chronograph Diamond Swiss Luxury ",
-        "description": "The watch case & bracelet is crafted from polished stainless steel, dazzling diamond set bezel, white pearl dial",
+        "title": "Chronograph Diamond Swiss Luxury",
+        "description": "The watch case & bracelet is crafted from polished stainless steel",
         "price": 1600,
         "brand": "Michele Deco",
         "category": "Watches",
@@ -257,7 +257,7 @@
     },
     {
         "title": "Air King",
-        "description": "The Oyster Perpetual Air-King pays tribute to the pioneers of flight and the Oyster's roles in the epic story of aviation.",
+        "description": "The Oyster Perpetual Air-King pays tribute to the pioneers of flight",
         "price": 7450,
         "brand": "Rolex",
         "category": "Watches",
@@ -265,7 +265,7 @@
     },
     {
         "title": "Miller",
-        "description": " An oversized tonal Double T within a gold dial. It is finished with a braided leather band, inspired by the artistry of basket-weaving.",
+        "description": "An oversized tonal Double T within a gold dial and braided leather band",
         "price": 250 ,
         "brand": "Tory Burch",
         "category": "Watches",
@@ -273,7 +273,7 @@
     },
     {
         "title": "Intrepid Sport",
-        "description": "Features scratch and scrape resistant, sapphire-coated curved glass, and three subdials to display the day, date, and also a 24-hour function.",
+        "description": "Three subdials to display the day, date, and also a 24-hour function",
         "price": 200,
         "brand": "Ralph Christian",
         "category": "Watches",
@@ -281,7 +281,7 @@
     },
     {
         "title": "Maestro-233",
-        "description": "Good looking, functional, dependable, we create Maestro in ten variants depending on case color paired with available colors of custom silicone bands",
+        "description": "Good looking, functional, and dependable",
         "price": 450,
         "brand": "Giorgio Milano",
         "category": "Watches",
@@ -289,7 +289,7 @@
     },
     {
         "title": "Swiss Bold",
-        "description": "A timeless and masculine leather watch with a minimalist design from Movado's Bold Access collection",
+        "description": "A timeless and masculine leather watch with a minimalist design",
         "price": 350,
         "brand": "Movado",
         "category": "Watches",
@@ -297,7 +297,7 @@
     },
     {
         "title": "Chrono XL Classic",
-        "description": "Classic is a great watch for those looking for a sporty and elegant chronograph, with Swiss technology at an unbeatable price.",
+        "description": "Sporty and elegant chronograph with Swiss technology",
         "price": 400,
         "brand": "Tissot",
         "category": "Watches",
@@ -305,7 +305,7 @@
     },
     {
         "title": "DiorXtrem MU",
-        "description": "bold sportswear look combined with an innovative and technical design",
+        "description": "Bold sportswear look combined with an innovative and technical design",
         "price": 650,
         "brand": "Dior",
         "category": "Sunglasses",
@@ -313,7 +313,7 @@
     },
     {
         "title": "Shadow Square",
-        "description": "sleek and sporty shape is complemented by a striking mirror lens. Polished Monogram Flowers appear at the end pieces",
+        "description": "Sleek and sporty shape, striking mirror lens, polished Monogram Flowers",
         "price": 575,
         "brand": "Louis Vuitton",
         "category": "Sunglasses",
@@ -321,7 +321,7 @@
     },
     {
         "title": "Waimea ",
-        "description": "The striking mask-shaped frame is enlivened with Monogram-patterned lenses for a bold twist",
+        "description": "Striking mask-shaped frame is enlivened with Monogram-patterned lenses",
         "price":640 ,
         "brand": "Louis Vuitton",
         "category": "Sunglasses",
@@ -329,7 +329,7 @@
     },
     {
         "title": "Aviator Flash",
-        "description": "Flash Lenses reinvented the standards of the market with its unique teardrop shape and flash lens combination.",
+        "description": "Unique teardrop shape and flash lens combination",
         "price": 190,
         "brand": "Ray Ban",
         "category": "Sunglasses",
@@ -337,7 +337,7 @@
     },
     {
         "title": "Cozy Coupe",
-        "description": "The original ride-on Cozy Coupe is guaranteed to bring your todder fun, enjoyment, and play",
+        "description": "Guaranteed to bring your todder fun, enjoyment, and play",
         "price": 64,
         "brand": "Little Tikes",
         "category": "Toys",
@@ -345,7 +345,7 @@
     },
     {
         "title": "Lightning McQueen Offroad RC",
-        "description": "Lightning McQueen makes his return to the track in radio control form in this 1:14 scale RC inspired by Disney/Pixar Cars!",
+        "description": "1:14 scale RC inspired by Disney/Pixar Cars",
         "price": 45,
         "brand": "Disney Pixar Cars",
         "category": "Toys",
@@ -353,7 +353,7 @@
     },
     {
         "title": "42083 Race Car Building Kit",
-        "description": "The perfect gift for car lovers and future engineers! Build and experience a quintessential collectible sports car  the LEGO Technic Bugatti Chiron",
+        "description": "Build and experience a quintessential collectible sports car",
         "price": 430,
         "brand": "Lego",
         "category": "Toys",
@@ -361,7 +361,7 @@
     },
     {
         "title": "Scepter 24 Mountain Bike",
-        "description": "Steel mountain frame with suspension fork to smooth bumps and increase control on the trail",
+        "description": "Steel mountain frame with suspension fork",
         "price": 230,
         "brand": "Mongoose ",
         "category": "Toys",
@@ -369,7 +369,7 @@
     },
     {
         "title": "TotSports Basketball",
-        "description": "Your little one will start learning sports and active play early with this TotSports basketball hoop and basketball",
+        "description": "Basketball hoop and basketball to teach your kid sports at an early age",
         "price": 30,
         "brand": "Little Tikes",
         "category": "Toys",
@@ -377,7 +377,7 @@
     },
     {
         "title": "Market X Smiley Chenille Patch Trucker Hat",
-        "description": "Classic look trucker hat by Market with a Smiley patch accent at the front. Mesh paneled cap with an adjustable snap closure and a curved brim",
+        "description": "Mesh paneled cap with an adjustable snap closure and a curved brim",
         "price": 45,
         "brand": "Market X Smiley",
         "category": "Hats",
@@ -385,7 +385,7 @@
     },
     {
         "title": "Bass Pro Shops Mesh Trucker Cap",
-        "description": "This fishing hat features a screen-printed Bass Pro Shops logo on the front and is a sharp-looking addition to your hat collection",
+        "description": "This fishing hat features a screen-printed Bass Pro Shops logo",
         "price": 6,
         "brand": "Bass Pro Shops",
         "category": "Hats",
@@ -393,7 +393,7 @@
     },
     {
         "title": "Carhartt Blackberry Knit Cuffed Beanie",
-        "description": "Rib knit quality for extra warmth and comfort with signature Carhartt label on the front",
+        "description": "Rib knit quality for extra warmth and comfort",
         "price": 16,
         "brand": "Carhartt",
         "category": "Hats",
@@ -409,7 +409,7 @@
     },
     {
         "title": "Nike Sportswear Bucket Hat Light Bone",
-        "description": "Bucket hat with washed twill fabric on the crown, sweatband to help keep you cool and dry, and embroidered Nike graphic at center front",
+        "description": "Bucket hat with washed twill fabric on the crown",
         "price": 22,
         "brand": "Nike",
         "category": "Hats",
@@ -417,7 +417,7 @@
     },
     {
         "title": "Orizaba Short Down Jacket",
-        "description": "A contemporary take on a classic men's down jacket, the Orizaba short puffer is crafted from nylon laqué",
+        "description": "A classic men's down jacket crafted from nylon laqué",
         "price": 2095,
         "brand": "Moncler",
         "category": "Jackets",
@@ -425,7 +425,7 @@
     },
     {
         "title": "Shelburne Parka Heritage",
-        "description": "This thigh-length Shelburne Parka is the perfect jacket for those frigid days when you require maximum protection",
+        "description": "This thigh-length parka is perfect for those frigid days",
         "price": 1495,
         "brand": "Canada Goose",
         "category": "Jackets",
@@ -433,7 +433,7 @@
     },
     {
         "title": "Check Cropped Puffer Jacket",
-        "description": "A cropped puffer jacket generously filled with goose down and feathers, highlighted with an exploded check pattern",
+        "description": "Cropped puffer jacket generously filled with goose down and feathers",
         "price": 1650,
         "brand": "Burberry",
         "category": "Jackets",
@@ -441,7 +441,7 @@
     },
     {
         "title": "Ultra Light Down Jacket (2021 edition)",
-        "description": "Thin, light and warm down jacket. Attention to detail balances design and comfort",
+        "description": "Thin, light and warm down jacket",
         "price": 40,
         "brand": "Uniqlo",
         "category": "Jackets",
@@ -449,7 +449,7 @@
     },
     {
         "title": "Men's '92 Retro Anniversary Nuptse Jacket",
-        "description": "With a throwback design, a relaxed, boxy fit, and 700-fill down insulation, you can rely on the durable and time-tested warmth to help you get where you're going",
+        "description": "A relaxed, boxy fit, and 700-fill down insulation, time-tested for warmth",
         "price": 350,
         "brand": "The North Face",
         "category": "Jackets",
