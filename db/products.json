@@ -1,7 +1,7 @@
 [
     {   
-        "title": "iphone 12",
-        "description": "An apple mobile which is nothing like apple",
+        "title": "iPhone 12",
+        "description": "An Apple mobile which is nothing like Apple",
         "price": 549,
         "brand": "Apple",
         "category": "Technology",
@@ -9,15 +9,15 @@
     },
     {  
         "title": "Galaxy S22",
-        "description": "the ultimate epic standard of smartphone experiences",
+        "description": "The ultimate epic standard of smartphone experiences",
         "price": 699,
         "brand": "Samsung",
         "category": "Technology",
         "images":  "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-01-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$"
     },
     {    
-        "title": "p50 pro",
-        "description": " A very good phone but not apple",
+        "title": "P50 Pro",
+        "description": "A very good phone but not Apple",
         "price": 892,
         "brand": "Huawei",
         "category": "Technology",
@@ -32,8 +32,8 @@
         "images":  "https://m.media-amazon.com/images/I/615vgooiuhL.jpg"
     },
     {        
-        "title": "pixel 6 pro",
-        "description": "unique design sharp display customisable interface and excellent camera",
+        "title": "Pixel 6 Pro",
+        "description": "Unique design, sharp display, customisable interface, excellent camera",
         "price": 344,
         "brand": "Google",
         "category": "Technology",
@@ -41,15 +41,15 @@
     },
     {       
         "title": "QN900B Neo",
-        "description": " Discover a world of vivid colors and details in the deep dark blacks and light bright whites, all from a vast grid of precision Mini LEDs.",
+        "description": "Discover a world from a vast grid of precision Mini LEDs",
         "price": 5500,
         "brand": "Samsung",
         "category": "Technology",
         "images":  "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6503/6503037cv11d.jpg"
     },
     {       
-        "title": "bravia x90j",
-        "description": "Everything you watch becomes more detailed and immersive with true-to-life 4K HDR, powered by the all-new Cognitive Processor XR",
+        "title": "Bravia X90J",
+        "description": "True-to-life 4K HDR, powered by the all-new Cognitive Processor XR",
         "price": 1784,
         "brand": "Sony",
         "category": "Technology",
@@ -64,8 +64,8 @@
         "images":  "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501929cv2d.jpg"
     },
     {        
-        "title": "AirPods ",
-        "description": "intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip",
+        "title": "AirPods",
+        "description": "Intelligent design with breakthrough technology and crystal-clear sound",
         "price": 130,
         "brand": "Apple",
         "category": "Technology",
@@ -73,7 +73,7 @@
     },
     {
         "title": "AirPods Pro",
-        "description": "Active Noise Cancellation,¹ plus Adaptive Transparency, and Personalized Spatial Audio with dynamic head tracking for immersive sound",
+        "description": "Active Noise Cancellation with Transparency mode, and a customizable fit",
         "price": 250,
         "brand": "Apple",
         "category": "Technology",
@@ -81,7 +81,7 @@
     },
     {
         "title": "AirPods Max",
-        "description": "a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods",
+        "description": "A perfect balance of high-fidelity audio and the magic of AirPods",
         "price": 500,
         "brand": "Apple",
         "category": "Technology",
@@ -97,7 +97,7 @@
     },
     {
         "title": "Alpha a7",
-        "description": "mirrorless camera lets you take clear, arresting images on the go. The 3 tiltable TFT-LCD and high-contrast OLED EVF make it easy to accurately frame your shot",
+        "description": "Mirrorless camera, 3 tiltable TFT-LCD and high-contrast OLED EVF",
         "price": 1000 ,
         "brand": "Sony",
         "category": "Technology",
@@ -105,7 +105,7 @@
     },
     {
         "title": "EOS Rebel T7",
-        "description": "built-in Wi-Fi makes printing and sharing pictures quick and easy, and the auto-focus system creates crisp images at a moment's notice.",
+        "description": "Built-in WiFi and auto-focus system that creates crisp images instantly",
         "price": 600,
         "brand": "Canon",
         "category": "Technology",
@@ -113,31 +113,23 @@
     },
     {
         "title": "Apple Watch Series 7",
-        "description": "easure heart rate and blood oxygen², and track temperature changes³ for advanced insights into your menstrual cycle And with Crash Detection, sleep stages tracking",
+        "description": "Measure heart rate and blood oxygen, and tracks temperature changes",
         "price": 400,
         "brand": "Apple",
         "category": "Technology",
         "images":  "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FKN53?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1647901190267"
     },
     {
-        "title": "Air force 1",
-        "description": "urably stitched overlays, clean finishes and the perfect amount of flash to make you shine",
+        "title": "Air Force 1",
+        "description": "Durably stitched overlays, clean finishes and the perfect amount of flash",
         "price": 110,
         "brand": "Nike",
         "category": "Shoes",
         "images":  "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f094af40-f82f-4fb9-a246-e031bf6fc411/air-force-1-07-womens-shoes-b19lqD.png"
     },
     {
-        "title": "Retro Sp Union - Off Noir",
-        "description": "The Union x Air Jordan 4 “Off Noir” is one of two desirable colorways produced exclusively for the Los Angeles boutique and Jordan Brand's Summer 2020 collaboration.",
-        "price": 970,
-        "brand": "Jordan",
-        "category": "Shoes",
-        "images":  "https://i5.walmartimages.com/asr/4ae5f4e3-8114-462e-8faa-1eedb67c9cac.c405ae354c60373a8979d980885b856d.jpeg"
-    },
-    {
-        "title": "Women's Screener sneaker ",
-        "description": "Features GG canvas with crystals. The House name is reinterpreted in new ways each season with a different play on its lettering",
+        "title": "Women's Screener Sneaker",
+        "description": "Features GG canvas with crystals",
         "price": 1050,
         "brand": "Gucci",
         "category": "Shoes",
@@ -145,7 +137,7 @@
     },
     {
         "title": "Good Luck Trainer",
-        "description": "A logo embellishment and chunky sole make this lace-up sneaker a sporty and sophisticated fave.",
+        "description": "Logo embellishment and chunky sole for a sporty and sophisticated fave",
         "price": 179,
         "brand": "Tory Burch",
         "category": "Shoes",
@@ -153,7 +145,7 @@
     },
     {
         "title": "Arch Fit",
-        "description": "All-day comfort and support are making waves in Skechers Arch- Fit - Waveport. ",
+        "description": "All-day comfort and support",
         "price": 90,
         "brand": "Skechers",
         "category": "Shoes",
@@ -161,7 +153,7 @@
     },
     {
         "title": "Terrex Ax4",
-        "description": "Sport these high utility and durable adidas® Outdoor Terrex Ax4 Mid GORE-TEX® Shoes and keep your feet comfortable all day long",
+        "description": "High utility and durable adidas® Outdoor Terrex Ax4 Mid GORE-TEX® Shoes",
         "price": 130,
         "brand": "Adidas",
         "category": "Shoes",
@@ -169,15 +161,15 @@
     },
     {
         "title": "Portofino Cuore",
-        "description": "small stars and the phrase “I love you” provided in various languages each element is ironic and playful to promote fun and carefree love-filled moments.",
+        "description": "Small stars and the phrase “I love you” in various languages",
         "price": 825,
-        "brand": "Dolce Gabbana ",
+        "brand": "Dolce Gabbana",
         "category": "Shoes",
         "images":  "https://us.dolcegabbana.com/dw/image/v2/BGRP_PRD/on/demandware.static/-/Sites-15/default/dw0a4aa55d/images/zoom/CS1558B7140_HWNN3_5.jpg?sw=742&sh=944&sm=fit"  
     },
     {
         "title": "Citysole High Top",
-        "description": "Signature jacquard and leather upper Fabric lining",
+        "description": "Signature jacquard and leather upper fabric lining",
         "price": 97,
         "brand": "Coach",
         "category": "Shoes",
@@ -185,7 +177,7 @@
     },
     {
         "title": "Adistar 1",
-        "description": "Foam midsole supports each heel strike to help guide the foot through smooth transitions",
+        "description": "Foam midsole supports each heel strike to help guide the foot",
         "price": 70,
         "brand": "Adidas",
         "category": "Shoes",
@@ -193,7 +185,7 @@
     },
     {
         "title": "Cloud 5",
-        "description": ". The upper is made of 100% recycled polyester and sports a speed-lacing system for get-it-on-and-get-going convenience.",
+        "description": ".",
         "price": 140,
         "brand": "Nordstrom",
         "category": "Shoes",
@@ -201,7 +193,7 @@
     },
     {
         "title": "Cool Student Backpack",
-        "description": "a signature leather bottom, ergonomically constructed with S-curve shoulder straps, padded back panel & a web haul handle",
+        "description": "Upper made of 100% recycled polyester and sports a speed-lacing system",
         "price": 60,
         "brand": "JanSport",
         "category": "Bags",
@@ -312,28 +304,12 @@
         "images":  "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T116.617.11.047.01_R_1.png?im=Resize=(850,850)"
     },
     {
-        "title": "Dive Watch",
-        "description": "For Cruise 2019, the Gucci Dive watch blends the casual look of a logo-embossed rubber strap with a symbolic motif of the House: the Kingsnake. The serpentine motif is framed by a yellow gold PVD case",
-        "price": 1750,
-        "brand": "Gucci",
-        "category": "Watches",
-        "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659392243/559817_I8610_8757_001_100_0000_Light-Gucci-Dive-watch-45mm.jpg"
-    },
-    {
         "title": "DiorXtrem MU",
         "description": "bold sportswear look combined with an innovative and technical design",
         "price": 650,
         "brand": "Dior",
         "category": "Sunglasses",
         "images":  "https://media.dior.com/couture/ecommerce/media/catalog/product/X/Y/1609783831_XTRMMUAT_10B8_E01_ZH.jpg"
-    },
-    {
-        "title": "Burberry Eyewear Shield Frame",
-        "description": "Made in Italy black and gold",
-        "price": 176,
-        "brand": "Burberry",
-        "category": "Sunglasses",
-        "images":  "https://img-static.tradesy.com/item/27056646/burberry-black-logomania-4291-shield-gold-mirrored-be4291s-unisex-sunglasses-0-1-650-650.jpg"
     },
     {
         "title": "Shadow Square",
