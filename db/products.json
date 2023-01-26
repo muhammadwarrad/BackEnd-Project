@@ -376,7 +376,63 @@
         "images":  "https://cfcdn.zulily.com/images/cache/product/1692x2030/572329/zu101219813_main_tm1660660632.jpg"
     },
     {
-        "title": "Market X Smiley Chenille Patch Trucker Hat",
+        "title": "Play-Doh Modeling Compound",
+        "description": "10 cans of creative fun – kids can get creative with just the right colors",
+        "price": 8,
+        "brand": "Play-Doh",
+        "category": "Toys",
+        "images":  "https://m.media-amazon.com/images/I/81xV+D1OkGL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Fidget Cube",
+        "description": "Infinity Cube is made from premium anodized aluminum alloy,CNC machined",
+        "price": 19,
+        "brand": "JOEYANK",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/71pfW7hly5L._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Pokémon Assorted Cards",
+        "description": "50 random regular and energy cards from every series",
+        "price": 5,
+        "brand": "Pokemon",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61VJWSztDcL._AC_SL1022_.jpg"
+    },
+    {
+        "title": "Oball Shaker Rattle Toy",
+        "description": "Colorful rattle beads create fun sounds to entertain and delight baby",
+        "price": 4,
+        "brand": "Bright Starts",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61vCn24QwwL._SL1500_.jpg"
+    },
+    {
+        "title": "Reversible Octopus Plushie",
+        "description": "Relieve stress by letting the Reversible Plushie tell how you are feeling",
+        "price": 15,
+        "brand": "TeeTurtle",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61iz16NvptS._AC_SL1200_.jpg"
+    },
+    {
+        "title": "LCD Writing Tablet",
+        "description": "Designed with super cute Dinosaur pattern, LCD writing tablet is a perfect learning toy",
+        "price": 14,
+        "brand": "ORSEN",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61OWTDHny6L._AC_SL1500_.jpg"
+    },
+    {
+        "title": "The Original Slinky",
+        "description": "Classic metal slinky, 2.75-inches in diameter",
+        "price": 4,
+        "brand": "Just Play",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/91jLIfnfDnL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Market X Smiley Trucker Hat",
         "description": "Mesh paneled cap with an adjustable snap closure and a curved brim",
         "price": 45,
         "brand": "Market X Smiley",
@@ -392,7 +448,7 @@
         "images":  "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_limit,dpr_1.0,f_auto,h_1697,q_auto,w_1600/c_limit,h_1697,w_1600/v1/ProductImages/600/fuchsia_28333_main?pgw=1"
     },
     {
-        "title": "Carhartt Blackberry Knit Cuffed Beanie",
+        "title": "Carhartt Knit Cuffed Beanie",
         "description": "Rib knit quality for extra warmth and comfort",
         "price": 16,
         "brand": "Carhartt",
@@ -408,12 +464,68 @@
         "images":  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmN449zTh7s8BFBI-t-uJqVMZj2lqklmKwgE9pt6HWAN6FLiY4a-7fxvCi4fJpX0mvcIG5Mv6I6aBuohdCABRhUfS_oVpO&usqp=CAY"
     },
     {
-        "title": "Nike Sportswear Bucket Hat Light Bone",
+        "title": "Nike Sportswear Bucket Hat",
         "description": "Bucket hat with washed twill fabric on the crown",
         "price": 22,
         "brand": "Nike",
         "category": "Hats",
         "images":  "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nidc3967-072-1.jpg"
+    },
+    {
+        "title": "Fanny Pack Hat",
+        "description": "The cap-sac folds into a pouch to store in your pocket",
+        "price": 23,
+        "brand": "Cap-sac",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/51fMlJqKg8L._AC_UX679_.jpg"
+    },
+    {
+        "title": "Superlite Relaxed Fit Hat",
+        "description": "This adidas cap is your go-to for everyday running and training",
+        "price": 24,
+        "brand": "adidas",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/71eHXFsetiS._AC_UX679_.jpg"
+    },
+    {
+        "title": "Unisex Baseball Cap",
+        "description": "Made with 100% cotton to ensuring lightweight, durable and comfortable fit",
+        "price": 12,
+        "brand": "LANGZHEN",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/81WcJnLUIXL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Wide Brim Straw Panama Hat",
+        "description": "Cute and lightweight, breathable and comfortable for the hot summer weather",
+        "price": 21,
+        "brand": "Lanzom",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/71KgWVcNO1L._AC_UX679_.jpg"
+    },
+    {
+        "title": "Columbia Bora Booney",
+        "description": "The tight weave construction offers lasting sun protection against the full spectrum of sunshine",
+        "price": 26,
+        "brand": "Columbia",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/71dZ2e3am8L._AC_UX679_.jpg"
+    },
+    {
+        "title": "Wool Rib Beanie",
+        "description": "This ribbed wool beanie is topped with a plush pompom of faux fur",
+        "price": 305,
+        "brand": "Moncler",
+        "category": "Hats",
+        "images": "https://n.nordstrommedia.com/id/sr3/94910d1b-7380-43cc-9593-5fbee4972525.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196&dpr=2"
+    },
+    {
+        "title": "Aerogram Cotton Cap",
+        "description": "A sleek, monochromatic baseball cap with matte details",
+        "price": 635,
+        "brand": "Louis Vuitton",
+        "category": "Hats",
+        "images": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-aerogram-cotton-cap-s00-hats-and-gloves--M77124_PM2_Front%20view.png?wid=2048&hei=2048"
     },
     {
         "title": "Orizaba Short Down Jacket",
