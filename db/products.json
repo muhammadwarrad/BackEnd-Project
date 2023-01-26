@@ -566,5 +566,61 @@
         "brand": "The North Face",
         "category": "Jackets",
         "images":  "https://is4.revolveassets.com/images/p4/n/z/TACF-MO133_V1.jpg"
+    },
+    {
+        "title": "Fleece Hooded Duck Shirt Jacket",
+        "description": "Thin, light and warm down jacket",
+        "price": 64,
+        "brand": "Dickies",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/51oxUkSU6QL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Denim Trucker Jacket",
+        "description": "Girl's denim trucker jacket with a point collar and long sleeves",
+        "price": 28,
+        "brand": "Levi's",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/819TFXP1ZYL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Lightweight Bleeker Down Jacket",
+        "description": "A lightweight layer to keep the chill off your back",
+        "price": 166,
+        "brand": "Polo Ralph Lauren",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/61bZ5YTS1SL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "title": "Casual Suit Blazer Jacket",
+        "description": "Modern fashion lightweight suit jacket blazer with notch lapel and one button closure",
+        "price": 56,
+        "brand": "Coofandy",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/81oB6BonnYL._AC_UY879_.jpg"
+    },
+    {
+        "title": "Urban NY Fashion Bomber Jacket",
+        "description": "Men streetwear bomber jacket, a modern outdoor lightweight windbreaker",
+        "price": 33,
+        "brand": "SCREENSHOT",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/81V8SsbmbLL._AC_UY879_.jpg"
+    },
+    {
+        "title": "Shawl Collar Wool Blend Coat",
+        "description": "Pair with jeans or shorts for a easy-going also elegant look",
+        "price": 89,
+        "brand": "CHICWISH",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/61YbsLpWOoL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Faux Leather Motorcycle Jacket",
+        "description": "Brown leather jacket for women with a removal knit hood and front panel with exposed zipper",
+        "price": 0,
+        "brand": "79",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/61uQD0e-wAL._AC_UX679_.jpg"
     }
 ]
