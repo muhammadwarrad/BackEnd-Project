@@ -25,7 +25,7 @@
     },
     {        
         "title": "Nokia 2760",
-        "description": "The OG",
+        "description": "The OG - classic flip phone with modern features",
         "price": 20,
         "brand": "HMD",
         "category": "Technology",
@@ -185,7 +185,7 @@
     },
     {
         "title": "Cloud 5",
-        "description": ".",
+        "description": "Runner-tech performance meets all-day comfort in a hybrid running/lifestyle shoe",
         "price": 140,
         "brand": "Nordstrom",
         "category": "Shoes",
@@ -221,7 +221,7 @@
         "price": 648,
         "brand": "Tory Burch",
         "category": "Bags",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/small-eleanor-embossed-bag-angle.TB_142540_001_SLANG.pdp-1200x1200.jpg" 
+        "images":  "https://image.s5a.com/is/image/saks/0400012932539_BLACK?wid=480&hei=640&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0" 
     },
     {
         "title": "Ophidia",
@@ -229,7 +229,7 @@
         "price": 2600,
         "brand": "Gucci",
         "category": "Bags",
-        "images": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1663175706/631685_UM8IG_1000_006_100_0000_Light-GG-Matelass-medium-tote.jpg"
+        "images": "https://cdn.shopify.com/s/files/1/1539/8211/products/ContactSheet-3_copy_31c8e505-3337-4109-b17d-ece60c326120.jpg?v=1574603100"
     },
     {
         "title": "GA2100",
@@ -309,7 +309,7 @@
         "price": 650,
         "brand": "Dior",
         "category": "Sunglasses",
-        "images":  "https://media.dior.com/couture/ecommerce/media/catalog/product/X/Y/1609783831_XTRMMUAT_10B8_E01_ZH.jpg"
+        "images":  "https://cdn.shopify.com/s/files/1/0272/9158/2548/products/DM40016U_01A_08_41741792-c21a-4b20-ad07-9a5813189b59_1080x.jpg?v=1631536361"
     },
     {
         "title": "Shadow Square",
@@ -320,7 +320,7 @@
         "images": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-shadow-square-sunglasses-s00-sunglasses--Z1844U_PM2_Front%20view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
     },
     {
-        "title": "Waimea ",
+        "title": "Waimea",
         "description": "Striking mask-shaped frame is enlivened with Monogram-patterned lenses",
         "price":640 ,
         "brand": "Louis Vuitton",
@@ -333,7 +333,7 @@
         "price": 190,
         "brand": "Ray Ban",
         "category": "Sunglasses",
-        "images":  "https://images.ray-ban.com/is/image/RayBan/8053672339000__STD__shad__qt.png?impolicy=RB_Product&width=2048&bgc=%23f2f2f2"
+        "images":  "https://images.ray-ban.com/is/image/RayBan/8053672256123__002.png?impolicy=RB_RB_FBShare"
     },
     {
         "title": "Cozy Coupe",
@@ -381,7 +381,7 @@
         "price": 45,
         "brand": "Market X Smiley",
         "category": "Hats",
-        "images":  "https://images.urbndata.com/is/image/UrbanOutfitters/76150903_020_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=1314"
+        "images":  "https://cdn.shopify.com/s/files/1/1149/5724/products/smiley-vintage-trucker-hat-hats-aviator-nation-os-neon-blue-591705_1200x.jpg?v=1639734963"
     },
     {
         "title": "Bass Pro Shops Mesh Trucker Cap",
@@ -413,7 +413,7 @@
         "price": 22,
         "brand": "Nike",
         "category": "Hats",
-        "images":  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYxDAl522b-gSOlH3HUtOVA3rgG800IQNJm4YJ2pHIGb2OzDQQC_hHs-7if4T_UbGRD0F-MgiCZg3KyGo2vtVQ_g6lBZRvnw&usqp=CAY"
+        "images":  "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nidc3967-072-1.jpg"
     },
     {
         "title": "Orizaba Short Down Jacket",
@@ -421,7 +421,7 @@
         "price": 2095,
         "brand": "Moncler",
         "category": "Jackets",
-        "images":  "https://moncler-cdn.thron.com/delivery/public/image/moncler/H20911A002745963V999_R/dpx6uv/std/0x0/H20911A002745963V999_R.jpg"
+        "images":  "https://cdna.lystit.com/520/650/n/photos/moncler/f50a5cdf/moncler-Black-Orizaba-Short-Down-Jacket.jpeg"
     },
     {
         "title": "Shelburne Parka Heritage",
@@ -437,7 +437,7 @@
         "price": 1650,
         "brand": "Burberry",
         "category": "Jackets",
-        "images":  "https://assets.burberry.com/is/image/Burberryltd/659D0B1F-0FCD-4220-A818-2091FB8E1B3E?$BBY_V2_SL_1x1$&wid=998&hei=998"
+        "images":  "https://images.lvrcdn.com/BigRetina74I/5CE/002_f8b76136-a79b-41c6-8635-62c11c3e3256.JPG"
     },
     {
         "title": "Ultra Light Down Jacket (2021 edition)",
@@ -445,7 +445,7 @@
         "price": 40,
         "brand": "Uniqlo",
         "category": "Jackets",
-        "images":  "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/443318/item/goods_30_443318.jpg?width=425"
+        "images":  "https://image.uniqlo.com/UQ/ST3/us/imagesother/featurepages/20FW-ULD/w-uld-jacket.png"
     },
     {
         "title": "Men's '92 Retro Anniversary Nuptse Jacket",
@@ -453,6 +453,6 @@
         "price": 350,
         "brand": "The North Face",
         "category": "Jackets",
-        "images":  "https://images.thenorthface.com/is/image/TheNorthFace/NF0A7WWB_682_altfront?wid=1300&hei=1510&fmt=jpeg&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"
+        "images":  "https://is4.revolveassets.com/images/p4/n/z/TACF-MO133_V1.jpg"
     }
 ]
