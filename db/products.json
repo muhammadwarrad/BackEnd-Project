@@ -125,23 +125,16 @@
         "price": 110,
         "brand": "Nike",
         "category": "Shoes",
-        "images":  "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f094af40-f82f-4fb9-a246-e031bf6fc411/air-force-1-07-womens-shoes-b19lqD.png"
+        "images":  "https://static.nike.com/a/images/t_default/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-mens-shoes-5QFp5Z.png"
     },
-    {
-        "title": "Retro Sp Union - Off Noir",
-        "description": "The Union x Air Jordan 4 “Off Noir” is one of two desirable colorways produced exclusively for the Los Angeles boutique and Jordan Brand's Summer 2020 collaboration.",
-        "price": 970,
-        "brand": "Jordan",
-        "category": "Shoes",
-        "images":  "https://i5.walmartimages.com/asr/4ae5f4e3-8114-462e-8faa-1eedb67c9cac.c405ae354c60373a8979d980885b856d.jpeg"
-    },
+   
     {
         "title": "Women's Screener sneaker ",
         "description": "Features GG canvas with crystals. The House name is reinterpreted in new ways each season with a different play on its lettering",
         "price": 1050,
         "brand": "Gucci",
         "category": "Shoes",
-        "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_980x980/1635525953/677423_9SFR0_2587_006_100_0000_Light-Womens-Screener-sneaker-with-crystals.jpg"
+        "images":  "https://cdna.lystit.com/520/650/n/photos/gucci/1b213a44/gucci-white-Zapatilla-deportiva-screener-cristales-mujer.jpeg"
     },
     {
         "title": "Good Luck Trainer",
@@ -149,10 +142,26 @@
         "price": 179,
         "brand": "Tory Burch",
         "category": "Shoes",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/good-luck-trainer-angle.TB_139868_960_SLANG.pdp-720x819.jpg"
+        "images":  "https://m.media-amazon.com/images/I/51womWx5NJL._AC_UY695_.jpg"
     },
     {
-        "title": "Arch Fit",
+        "title": "Charged Assert 9",
+        "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability",
+        "price": 60,
+        "brand": "Under Armour",
+        "category": "Shoes",
+        "images":  "https://m.media-amazon.com/images/I/410-L0vF3+L._AC_UY695_.jpg"
+    },
+    {
+        "title": "Racer Adapt 4.0",
+        "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability",
+        "price": 50,
+        "brand": "Adidas",
+        "category": "Shoes",
+        "images":  "https://m.media-amazon.com/images/I/81cuTtP+n6L._AC_UX695_.jpg"
+    },
+    {
+        "title": "Arch Fit", 
         "description": "All-day comfort and support are making waves in Skechers Arch- Fit - Waveport. ",
         "price": 90,
         "brand": "Skechers",
@@ -161,11 +170,11 @@
     },
     {
         "title": "Terrex Ax4",
-        "description": "Sport these high utility and durable adidas® Outdoor Terrex Ax4 Mid GORE-TEX® Shoes and keep your feet comfortable all day long",
+        "description": "jdjkasbjkfasbjafsbjsaf",
         "price": 130,
         "brand": "Adidas",
         "category": "Shoes",
-        "images":  "https://www.rei.com/media/02b86469-2a85-4e80-9b8e-e2f2289973c7?size=784x588"     
+        "images":  "https://m.media-amazon.com/images/I/61mGn6eSXyL._AC_UY695_.jpg"     
     },
     {
         "title": "Portofino Cuore",
@@ -181,7 +190,7 @@
         "price": 97,
         "brand": "Coach",
         "category": "Shoes",
-        "images":  "https://images.coach.com/is/image/Coach/c9059_stn_a0?$mobileProduct$"  
+        "images":  "https://image.s5a.com/is/image/saks/0400015831897_STONE?wid=984&hei=1312&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"  
     },
     {
         "title": "Adistar 1",
@@ -189,7 +198,7 @@
         "price": 70,
         "brand": "Adidas",
         "category": "Shoes",
-        "images":  "https://assets.adidas.com/images/w_600,f_auto,q_auto/c0b50b472e444d6eb308ae9900c5d0fb_9366/Adistar_1_Refuel_Running_Shoes_Blue_GX6864_05_standard.jpg"  
+        "images":  "https://m.media-amazon.com/images/I/61GYMKEkqvL._AC_SR1840,1472_.jpg"  
     },
     {
         "title": "Cloud 5",
@@ -217,12 +226,69 @@
     },
     {
         "title": "Ophidia GG Belt Bag",
-        "description": "rafted from GG Supreme canvas combined with the distinctive combination of the House Web with Double G hardware",
+        "description": "crafted from GG Supreme canvas combined with the distinctive combination of the House Web with Double G hardware",
         "price": 1150,
         "brand": "Gucci",
         "category": "Bags",
         "images":  "https://images.stockx.com/images/Gucci-Ophidia-GG-Belt-Bag-Medium-Beige-Ebony.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&trimcolor=ffffff&updated_at=1606323405" 
     },
+    {
+        "title": "Evercat Contender",
+        "description": "Featuring multiple pocket options and a sleek smooth design take it with you anywhere you go",
+        "price": 24,
+        "brand": "Puma",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/91Yyr9d5lzL._AC_SY879_.jpg" 
+    },
+    {
+        "title": "Mens Messenger Bag",
+        "description": "made of superior crazy horse cowhide leather and water resistant canvas for long-term use",
+        "price": 50,
+        "brand": "Newhey",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/811x6lo0+YL._AC_SX679_.jpg" 
+    },
+    {
+        "title": "Travel Laptop Backpack",
+        "description": "Durable Laptops Backpack with USB Charging Port,",
+        "price": 30,
+        "brand": "Matein",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/81OFxhFWmML._AC_SX679_.jpg" 
+    },
+    {
+        "title": "Crossbody Purse",
+        "description": " feels soft and comfortable and easy to clean with wipes",
+        "price": 23,
+        "brand": "LONSYV",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/81Y1nf0xcoL._AC_UX679_.jpg" 
+    },
+    {
+        "title": "Jet Set",
+        "description": "Structured in a clean-lined silhouette crafted from Saffiano leather",
+        "price": 72,
+        "brand": "Michael Kors",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/91y9TNcqo6L._AC_UX695_.jpg" 
+    },
+    {
+        "title": "Duffel Bag",
+        "description": "The high density water resistant material can help you to separate dry items ",
+        "price": 22,
+        "brand": "HYC00",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/71+g-qsSOsS._AC_UX679_.jpg" 
+    },
+    {
+        "title": "Diver Nylon",
+        "description": "the perfect travel accessory for any women, keep your valuable items close",
+        "price": 21,
+        "brand": "Nautica ",
+        "category": "Bags",
+        "images":  "https://m.media-amazon.com/images/I/A1akbwS8aRL._AC_UX695_.jpg" 
+    },
+    
     {
         "title": "Small Eleanor Bag",
         "description": "edges that are painted by hand, to emphasize the clean lines. Its twisted rope chain is convertible: wear it doubled or long and crossbody.",
@@ -247,6 +313,31 @@
         "category": "Watches",
         "images": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq01.png.transform/main-visual-sp/image.png"
     },
+    {
+        "title": "Men's Fashion",
+        "description": "Japan Movement and Battery provide accurate time",
+        "price": 50,
+        "brand": "CRRJU",
+        "category": "Watches",
+        "images": "https://m.media-amazon.com/images/I/71yIoFo8BZL._AC_SX679._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "title": "Disney Frozen Digital",
+        "description": "Has images of Elsa and Anna on the dial surrounded by a pink notched bezel.",
+        "price": 12,
+        "brand": "Accutime",
+        "category": "Watches",
+        "images": "https://m.media-amazon.com/images/I/81e0PjV70NL._AC_UY879_.jpg"
+    },
+    {
+        "title": "l Spider-Man Digital",
+        "description": "This digital watch is a great accessory that your child will love to wear and use",
+        "price": 12,
+        "brand": "Accutime",
+        "category": "Watches",
+        "images": "https://m.media-amazon.com/images/I/911XSiGkQML._AC_UY879_.jpg"
+    },
+
     {
         "title": " Grant Stainless Steel Quartz",
         "description": "Rose gold-tone stainless steel case with navy blue sunray dial; genuine navy blue leather band with adjustable buckle closure",
@@ -327,6 +418,71 @@
         "category": "Sunglasses",
         "images":  "https://media.dior.com/couture/ecommerce/media/catalog/product/X/Y/1609783831_XTRMMUAT_10B8_E01_ZH.jpg"
     },
+    {
+        "title": "Polarized",
+        "description": "The fashion sunglasses are also a great accessory to wear with clothes.",
+        "price": 10,
+        "brand": "Winlove",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/512g4QUqNhL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Emerge Active",
+        "description": "ChromaPop polarized lenses cut glare and enhance color and contrast",
+        "price": 200,
+        "brand": "Smith",
+        "category": "Sunglasses",
+        "images": "https://www.smithoptics.com/dw/image/v2/BDPZ_PRD/on/demandware.static/-/Sites-smith-master-catalog/default/dw19059d8a/images/hi-res/20444908656L5_01.png?sw=700&sh=700&sm=fit"
+    },
+    {
+        "title": "",
+        "description": "",
+        "price": 0,
+        "brand": "",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/519NQwNO96L._AC_UY695_.jpg"
+    },
+    {
+        "title": "",
+        "description": "",
+        "price": 0,
+        "brand": "",
+        "category": "Sunglasses",
+        "images": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "price": 0,
+        "brand": "",
+        "category": "Sunglasses",
+        "images": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "price": 0,
+        "brand": "",
+        "category": "Sunglasses",
+        "images": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "price": 0,
+        "brand": "",
+        "category": "Sunglasses",
+        "images": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "price": 0,
+        "brand": "",
+        "category": "Sunglasses",
+        "images": ""
+    },
+
     {
         "title": "Burberry Eyewear Shield Frame",
         "description": "Made in Italy black and gold",

@@ -15,9 +15,9 @@ const PORT = process.env.PORT || process.env.LOCAL_PORT;
 
 // Uses
 app.use(express.json());
-app.use(cors({
-  origin: '*'
-}));
+app.use(cors(
+  
+));
 app.use("/", routes);
 
 // Db connection
