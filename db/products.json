@@ -17,11 +17,11 @@
     },
     {    
         "title": "P50 Pro",
-        "description": "A very good phone but not Apple",
+        "description": "Lighter weight, better handling: the larger screen and battery are housed in a compact case",
         "price": 892,
         "brand": "Huawei",
         "category": "Technology",
-        "images":  "https://www.cnet.com/a/img/resize/fade8ea5bd72e22f7b3180d4790b51b3e2c7ddcd/hub/2022/01/27/284845e1-56eb-45e6-a766-c4fb06055a2c/huawei-p50-pro-review-cnet-hoyle.jpg?auto=webp&fit=crop&height=1200&width=1200"
+        "images":  "https://m.media-amazon.com/images/I/617X41AgpzL._AC_SL1500_.jpg"
     },
     {        
         "title": "Nokia 2760",
@@ -37,7 +37,7 @@
         "price": 344,
         "brand": "Google",
         "category": "Technology",
-        "images":  "https://lh3.googleusercontent.com/A5oRCNIugMM4fwaLGc-lZjE8b87S6Ybw9SnyCcUENmspTziA01FQL6DnI8UwvwdSrCGPo8f0aXsah6_YG7HwM7TCl99tXFTS5ow"
+        "images":  "https://m.media-amazon.com/images/I/71ee+5V4ZRL._AC_SL1500_.jpg"
     },
     {       
         "title": "QN900B Neo",
@@ -73,7 +73,7 @@
     },
     {
         "title": "AirPods Pro",
-        "description": "Active Noise Cancellation with Transparency mode, and a customizable fit",
+        "description": "Wireless earbuds with active noise cancellation, transparency mode, and a customizable fit",
         "price": 250,
         "brand": "Apple",
         "category": "Technology",
@@ -85,7 +85,7 @@
         "price": 500,
         "brand": "Apple",
         "category": "Technology",
-        "images":  "https://helios-i.mashable.com/imagery/reviews/03iQMbCEXWmZp7RWtWGRrg5/hero-image.fill.size_1200x1200.v1623391765.jpg"
+        "images":  "https://m.media-amazon.com/images/I/81FnSOE94NL._AC_SL1500_.jpg"
     },
     {
         "title": "Raycon",
@@ -101,7 +101,7 @@
         "price": 1000 ,
         "brand": "Sony",
         "category": "Technology",
-        "images":  "https://4.img-dpreview.com/files/p/articles/5762242810/images/a7-front-reflection.jpeg"
+        "images":  "https://m.media-amazon.com/images/I/71xU1YRtrtL._AC_SL1200_.jpg"
     },
     {
         "title": "EOS Rebel T7",
@@ -333,7 +333,71 @@
         "price": 190,
         "brand": "Ray Ban",
         "category": "Sunglasses",
-        "images":  "https://images.ray-ban.com/is/image/RayBan/8053672256123__002.png?impolicy=RB_RB_FBShare"
+        "images":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkeujfPUfxRBQvhKd898BbSLElaCByoHxHPA&usqp=CAU"
+    },    
+    {
+        "title": "Polarized",
+        "description": "These fashion sunglasses are also a great accessory to wear with clothes",
+        "price": 10,
+        "brand": "Winlove",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/512g4QUqNhL._AC_US1000_.jpg"
+    },
+    {
+        "title": "Emerge Active",
+        "description": "ChromaPop polarized lenses cut glare and enhance color and contrast",
+        "price": 200,
+        "brand": "Smith",
+        "category": "Sunglasses",
+        "images": "https://www.smithoptics.com/dw/image/v2/BDPZ_PRD/on/demandware.static/-/Sites-smith-master-catalog/default/dw19059d8a/images/hi-res/20444908656L5_01.png?sw=700&sh=700&sm=fit"
+    },
+    {
+        "title": "Sports Polarized Sunglasses",
+        "description": "FEISEDY Polarized lenses add special coatings to the lenses that filter the glare of the sun",
+        "price": 22,
+        "brand": "FEISEDY",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/51BHcTw41BL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Square Sunglasses Polarized",
+        "description": "Constructed with premium resin materials and reinforced metal hinges",
+        "price": 10,
+        "brand": "Joopin",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/519NQwNO96L._AC_UY535_.jpg"
+    },
+    {
+        "title": "VE4369 Sunglasses",
+        "description": "The perfect, luxury accessory for absolutely any occasion",
+        "price": 150,
+        "brand": "Versace",
+        "category": "Sunglasses",
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKR47fZHz3pkVQUYU6YvaKxUZUFy8NdOiMcLwHXQqoYTAR5DQAdZTrSQLRcQSLBIba85RSOI4C4lagrBsUofPgFWMu7AyATMFCX6QtGpo2W57RtvVLzYjk_Q"
+    },
+    {
+        "title": "Polarized Sports Sunglasses",
+        "description": "Ideal for usage by motorcycle and cycling, and any other outdoor activities",
+        "price": 17,
+        "brand": "FAGUMA",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/61iJcBgbUtL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Hippie Round Sunglasses",
+        "description": "Two colors of vintage, trendy sunglasses to accessorize any iconic look",
+        "price": 0,
+        "brand": "15",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/51jvkOX45kL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Retro Vintage Sunglasses",
+        "description": "This 4-pack of rectangular sunglasses can block UVA and UVB radiation",
+        "price": 19,
+        "brand": "Tskestvy",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/61Q2rKXEGJL._AC_UY741_.jpg"
     },
     {
         "title": "Cozy Coupe",
