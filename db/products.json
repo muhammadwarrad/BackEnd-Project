@@ -1,7 +1,7 @@
 [
     {   
-        "title": "iphone 12",
-        "description": "An apple mobile which is nothing like apple",
+        "title": "iPhone 12",
+        "description": "An Apple mobile which is nothing like Apple",
         "price": 549,
         "brand": "Apple",
         "category": "Technology",
@@ -9,51 +9,51 @@
     },
     {  
         "title": "Galaxy S22",
-        "description": "the ultimate epic standard of smartphone experiences",
+        "description": "The ultimate epic standard of smartphone experiences",
         "price": 699,
         "brand": "Samsung",
         "category": "Technology",
         "images":  "https://image-us.samsung.com/us/smartphones/galaxy-s22/images/gallery/R0_Exclusive-Violet/FLRC-214-R0-Violet-01-PDP-GALLERY-1600x1200.jpg?$product-details-jpg$"
     },
     {    
-        "title": "p50 pro",
-        "description": " A very good phone but not apple",
+        "title": "P50 Pro",
+        "description": "Lighter weight, better handling: the larger screen and battery are housed in a compact case",
         "price": 892,
         "brand": "Huawei",
         "category": "Technology",
-        "images":  "https://www.cnet.com/a/img/resize/fade8ea5bd72e22f7b3180d4790b51b3e2c7ddcd/hub/2022/01/27/284845e1-56eb-45e6-a766-c4fb06055a2c/huawei-p50-pro-review-cnet-hoyle.jpg?auto=webp&fit=crop&height=1200&width=1200"
+        "images":  "https://m.media-amazon.com/images/I/617X41AgpzL._AC_SL1500_.jpg"
     },
     {        
         "title": "Nokia 2760",
-        "description": "The OG",
+        "description": "The OG - classic flip phone with modern features",
         "price": 20,
         "brand": "HMD",
         "category": "Technology",
         "images":  "https://m.media-amazon.com/images/I/615vgooiuhL.jpg"
     },
     {        
-        "title": "pixel 6 pro",
-        "description": "unique design sharp display customisable interface and excellent camera",
+        "title": "Pixel 6 Pro",
+        "description": "Unique design, sharp display, customisable interface, excellent camera",
         "price": 344,
         "brand": "Google",
         "category": "Technology",
-        "images":  "https://lh3.googleusercontent.com/A5oRCNIugMM4fwaLGc-lZjE8b87S6Ybw9SnyCcUENmspTziA01FQL6DnI8UwvwdSrCGPo8f0aXsah6_YG7HwM7TCl99tXFTS5ow"
+        "images":  "https://m.media-amazon.com/images/I/71ee+5V4ZRL._AC_SL1500_.jpg"
     },
     {       
         "title": "QN900B Neo",
-        "description": " Discover a world of vivid colors and details in the deep dark blacks and light bright whites, all from a vast grid of precision Mini LEDs.",
+        "description": "Discover a world from a vast grid of precision Mini LEDs",
         "price": 5500,
         "brand": "Samsung",
         "category": "Technology",
         "images":  "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6503/6503037cv11d.jpg"
     },
     {       
-        "title": "bravia x90j",
-        "description": "Everything you watch becomes more detailed and immersive with true-to-life 4K HDR, powered by the all-new Cognitive Processor XR",
+        "title": "Bravia X90J",
+        "description": "True-to-life 4K HDR, powered by the all-new Cognitive Processor XR",
         "price": 1784,
         "brand": "Sony",
         "category": "Technology",
-        "images":  "https://m.media-amazon.com/images/I/91KZbi-CbzL.jpg"
+        "images":  "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6453/6453206cv12d.jpg"
     },
     {        
         "title": "UQ9000 Series",
@@ -64,8 +64,8 @@
         "images":  "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501929cv2d.jpg"
     },
     {        
-        "title": "AirPods ",
-        "description": "intelligent design with breakthrough technology and crystal-clear sound. Powered by the new Apple H1 headphone chip",
+        "title": "AirPods",
+        "description": "Intelligent design with breakthrough technology and crystal-clear sound",
         "price": 130,
         "brand": "Apple",
         "category": "Technology",
@@ -73,7 +73,7 @@
     },
     {
         "title": "AirPods Pro",
-        "description": "Active Noise Cancellation,¹ plus Adaptive Transparency, and Personalized Spatial Audio with dynamic head tracking for immersive sound",
+        "description": "Wireless earbuds with active noise cancellation, transparency mode, and a customizable fit",
         "price": 250,
         "brand": "Apple",
         "category": "Technology",
@@ -81,15 +81,15 @@
     },
     {
         "title": "AirPods Max",
-        "description": "a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods",
+        "description": "A perfect balance of high-fidelity audio and the magic of AirPods",
         "price": 500,
         "brand": "Apple",
         "category": "Technology",
-        "images":  "https://helios-i.mashable.com/imagery/reviews/03iQMbCEXWmZp7RWtWGRrg5/hero-image.fill.size_1200x1200.v1623391765.jpg"
+        "images":  "https://m.media-amazon.com/images/I/81FnSOE94NL._AC_SL1500_.jpg"
     },
     {
         "title": "Raycon",
-        "description": "The Best Features for Low Prices",
+        "description": "Our most compact wireless earbuds deliver crisp and powerful beats for your everyday grind",
         "price": 80,
         "brand": "Raycon",
         "category": "Technology",
@@ -97,15 +97,15 @@
     },
     {
         "title": "Alpha a7",
-        "description": "mirrorless camera lets you take clear, arresting images on the go. The 3 tiltable TFT-LCD and high-contrast OLED EVF make it easy to accurately frame your shot",
+        "description": "Mirrorless camera, 3 tiltable TFT-LCD and high-contrast OLED EVF",
         "price": 1000 ,
         "brand": "Sony",
         "category": "Technology",
-        "images":  "https://4.img-dpreview.com/files/p/articles/5762242810/images/a7-front-reflection.jpeg"
+        "images":  "https://m.media-amazon.com/images/I/71xU1YRtrtL._AC_SL1200_.jpg"
     },
     {
         "title": "EOS Rebel T7",
-        "description": "built-in Wi-Fi makes printing and sharing pictures quick and easy, and the auto-focus system creates crisp images at a moment's notice.",
+        "description": "Built-in WiFi and auto-focus system that creates crisp images instantly",
         "price": 600,
         "brand": "Canon",
         "category": "Technology",
@@ -113,47 +113,39 @@
     },
     {
         "title": "Apple Watch Series 7",
-        "description": "easure heart rate and blood oxygen², and track temperature changes³ for advanced insights into your menstrual cycle And with Crash Detection, sleep stages tracking",
+        "description": "Measure heart rate and blood oxygen, and tracks temperature changes",
         "price": 400,
         "brand": "Apple",
         "category": "Technology",
         "images":  "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FKN53?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1647901190267"
     },
     {
-        "title": "Air force 1",
-        "description": "urably stitched overlays, clean finishes and the perfect amount of flash to make you shine",
+        "title": "Air Force 1",
+        "description": "Durably stitched overlays, clean finishes and the perfect amount of flash",
         "price": 110,
         "brand": "Nike",
         "category": "Shoes",
-        "images":  "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f094af40-f82f-4fb9-a246-e031bf6fc411/air-force-1-07-womens-shoes-b19lqD.png"
+        "images":  "https://cdn.shopify.com/s/files/1/0408/9909/products/Nike-Air-Force-1-_07---White-White-CW2288-111---07-06-22---Feature-JAYLEEN-JP.jpg?v=1657225444&width=1280"
     },
     {
-        "title": "Retro Sp Union - Off Noir",
-        "description": "The Union x Air Jordan 4 “Off Noir” is one of two desirable colorways produced exclusively for the Los Angeles boutique and Jordan Brand's Summer 2020 collaboration.",
-        "price": 970,
-        "brand": "Jordan",
-        "category": "Shoes",
-        "images":  "https://i5.walmartimages.com/asr/4ae5f4e3-8114-462e-8faa-1eedb67c9cac.c405ae354c60373a8979d980885b856d.jpeg"
-    },
-    {
-        "title": "Women's Screener sneaker ",
-        "description": "Features GG canvas with crystals. The House name is reinterpreted in new ways each season with a different play on its lettering",
+        "title": "Women's Screener Sneaker",
+        "description": "The Screener is designed in a mix of ivory leather and white and silver light GG lamé",
         "price": 1050,
         "brand": "Gucci",
         "category": "Shoes",
-        "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_980x980/1635525953/677423_9SFR0_2587_006_100_0000_Light-Womens-Screener-sneaker-with-crystals.jpg"
+        "images":  "https://image.s5a.com/is/image/saks/0400012689146_A1?wid=480&hei=640&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"
     },
     {
         "title": "Good Luck Trainer",
-        "description": "A logo embellishment and chunky sole make this lace-up sneaker a sporty and sophisticated fave.",
+        "description": "Logo embellishment and chunky sole for a sporty and sophisticated fave",
         "price": 179,
         "brand": "Tory Burch",
         "category": "Shoes",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/good-luck-trainer-angle.TB_139868_960_SLANG.pdp-720x819.jpg"
+        "images":  "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000209016871_02_ks.jpg"
     },
     {
         "title": "Arch Fit",
-        "description": "All-day comfort and support are making waves in Skechers Arch- Fit - Waveport. ",
+        "description": "Step-in to convenient walking comfort and support",
         "price": 90,
         "brand": "Skechers",
         "category": "Shoes",
@@ -161,47 +153,71 @@
     },
     {
         "title": "Terrex Ax4",
-        "description": "Sport these high utility and durable adidas® Outdoor Terrex Ax4 Mid GORE-TEX® Shoes and keep your feet comfortable all day long",
+        "description": "High utility and durable adidas® Outdoor Terrex Ax4 Mid GORE-TEX® Shoes",
         "price": 130,
         "brand": "Adidas",
         "category": "Shoes",
-        "images":  "https://www.rei.com/media/02b86469-2a85-4e80-9b8e-e2f2289973c7?size=784x588"     
+        "images":  "https://images.rogansshoes.com/t_1000/AD_FY9638_BLK2.JPG"     
     },
     {
         "title": "Portofino Cuore",
-        "description": "small stars and the phrase “I love you” provided in various languages each element is ironic and playful to promote fun and carefree love-filled moments.",
+        "description": "Featuring white/multicolour, calf leather, hand-painted design, and branded heel counter",
         "price": 825,
-        "brand": "Dolce Gabbana ",
+        "brand": "Dolce Gabbana",
         "category": "Shoes",
-        "images":  "https://us.dolcegabbana.com/dw/image/v2/BGRP_PRD/on/demandware.static/-/Sites-15/default/dw0a4aa55d/images/zoom/CS1558B7140_HWNN3_5.jpg?sw=742&sh=944&sm=fit"  
+        "images":  "https://cdn-images.farfetch-contents.com/18/64/42/48/18644248_40296456_1000.jpg"  
     },
     {
         "title": "Citysole High Top",
-        "description": "Signature jacquard and leather upper Fabric lining",
+        "description": "Signature jacquard and leather upper fabric lining",
         "price": 97,
         "brand": "Coach",
         "category": "Shoes",
-        "images":  "https://images.coach.com/is/image/Coach/c9059_stn_a0?$mobileProduct$"  
+        "images":  "https://image.s5a.com/is/image/saks/0400015831897_STONE?wid=480&hei=640&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"  
     },
     {
         "title": "Adistar 1",
-        "description": "Foam midsole supports each heel strike to help guide the foot through smooth transitions",
+        "description": "Foam midsole supports each heel strike to help guide the foot",
         "price": 70,
         "brand": "Adidas",
         "category": "Shoes",
-        "images":  "https://assets.adidas.com/images/w_600,f_auto,q_auto/c0b50b472e444d6eb308ae9900c5d0fb_9366/Adistar_1_Refuel_Running_Shoes_Blue_GX6864_05_standard.jpg"  
+        "images":  "https://img.runningwarehouse.com/watermark/rsg.php?path=/content_images/reviews/adidas_adistar_Review/ASASW01-R6.jpg&nw=296"  
     },
     {
         "title": "Cloud 5",
-        "description": ". The upper is made of 100% recycled polyester and sports a speed-lacing system for get-it-on-and-get-going convenience.",
+        "description": "Runner-tech performance meets all-day comfort in a hybrid running/lifestyle shoe",
         "price": 140,
         "brand": "Nordstrom",
         "category": "Shoes",
         "images":  "https://cdn.shoplightspeed.com/shops/614969/files/45530171/650x750x2/on-mens-cloud-5.jpg"  
     },
     {
+        "title": "Charged Assert 9",
+        "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability",
+        "price": 60,
+        "brand": "Under Armour",
+        "category": "Shoes",
+        "images":  "https://media.kohlsimg.com/is/image/kohls/4976997_Black_White_White?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+        "title": "Racer Adapt 4.0",
+        "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability",
+        "price": 50,
+        "brand": "Adidas",
+        "category": "Shoes",
+        "images":  "https://i8.amplience.net/s/scvl/113070_231951_SET/3?fmt=auto&$webPdpProduct$"
+    },
+    {
+        "title": "Classic White High Tops",
+        "description": "High top Chuck Taylors from the iconic ongoing collaboration with COMME des GARÇONS",
+        "price": 150,
+        "brand": "Converse",
+        "category": "Shoes",
+        "images": "https://cdn.shoplightspeed.com/shops/615307/files/33042385/1652x2313x1/comme-des-garcons-play-x-converse-classic-white-hi.jpg"
+    },
+    {
         "title": "Cool Student Backpack",
-        "description": "a signature leather bottom, ergonomically constructed with S-curve shoulder straps, padded back panel & a web haul handle",
+        "description": "Upper made of 100% recycled polyester and sports a speed-lacing system",
         "price": 60,
         "brand": "JanSport",
         "category": "Bags",
@@ -209,7 +225,7 @@
     },
     {
         "title": "SuperBreak",
-        "description": "padded shoulder straps for extra cushion and comfort, a top-load design so you can pack easily, and many different ways to carry",
+        "description": "Padded shoulder straps for extra cushion and comfort",
         "price": 40,
         "brand": "JanSport",
         "category": "Bags",
@@ -217,47 +233,103 @@
     },
     {
         "title": "Ophidia GG Belt Bag",
-        "description": "rafted from GG Supreme canvas combined with the distinctive combination of the House Web with Double G hardware",
+        "description": "Crafted from GG Supreme canvas combined with the House Web",
         "price": 1150,
         "brand": "Gucci",
         "category": "Bags",
-        "images":  "https://images.stockx.com/images/Gucci-Ophidia-GG-Belt-Bag-Medium-Beige-Ebony.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&trimcolor=ffffff&updated_at=1606323405" 
+        "images":  "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/10619104_fpx.tif?op_sharpen=1&wid=350&fit=fit,1&$filtersm$" 
     },
     {
         "title": "Small Eleanor Bag",
-        "description": "edges that are painted by hand, to emphasize the clean lines. Its twisted rope chain is convertible: wear it doubled or long and crossbody.",
+        "description": "Hand-painted edges with a convertible twisted rope chain",
         "price": 648,
         "brand": "Tory Burch",
         "category": "Bags",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/small-eleanor-embossed-bag-angle.TB_142540_001_SLANG.pdp-1200x1200.jpg" 
+        "images":  "https://image.s5a.com/is/image/saks/0400012932539_BLACK?wid=480&hei=640&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0" 
     },
     {
         "title": "Ophidia",
-        "description": "trimmed with textured leather and topped with tonal Double G hardware",
+        "description": "Trimmed with textured leather and topped with tonal Double G hardware",
         "price": 2600,
         "brand": "Gucci",
         "category": "Bags",
-        "images": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1663175706/631685_UM8IG_1000_006_100_0000_Light-GG-Matelass-medium-tote.jpg"
+        "images": "https://cdn.shopify.com/s/files/1/1539/8211/products/ContactSheet-3_copy_31c8e505-3337-4109-b17d-ece60c326120.jpg?v=1574603100"
+    },
+    {
+        "title": "Alliance II Sackpack",
+        "description": "Black string bag with drop mesh water bottle pockets",
+        "price": 17,
+        "brand": "Adidas",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/91YKb63wdfS._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Monogram Quilted Pouch",
+        "description": "A quilted leather key pouch with the classic gold YSL logo",
+        "price": 425,
+        "brand": "YSL",
+        "category": "Bags",
+        "images": "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/11759934_fpx.tif?$filterlrg$&wid=327"
+    },
+    {
+        "title": "Dakota Neoprene",
+        "description": "A water-resistant backpack with work and life balance",
+        "price": 195,
+        "brand": "Dagne Dover",
+        "category": "Bags",
+        "images": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1665603924-dagne-dover-dakota-neoprene-backpack-in-camel-1665603915.jpg"
+    },
+    {
+        "title": "Borealis",
+        "description": "The FlexVent suspension system features articulated shoulder straps, a rounded back panel",
+        "price": 100,
+        "brand": "The North Face",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/81YMkEF1nqL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Santiago",
+        "description": "Liner in main pocket to keep goods cold, it's an amazing bag",
+        "price": 20,
+        "brand": "Adidas",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/81oz6J24NJL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Unicorn Toddler Tote Bag",
+        "description": "The unicorn plush tote bag style is very fashion and cute, it will catch everyone's eye",
+        "price": 15,
+        "brand": "Moe's CEO",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/711O3-ySogL._AC_UY535_.jpg"
+    },
+    {
+        "title": "Kid's Logo Backpack",
+        "description": "port has the power to transform and empower us. makes an excellent athlete",
+        "price": 20,
+        "brand": "Puma",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/91D7Qi043PL._AC_SL1500_.jpg"
     },
     {
         "title": "GA2100",
-        "description": "features a round stainless steel case with a resin and carbon fiber overlay",
+        "description": "Round stainless steel case with a resin and carbon fiber overlay",
         "price": 83,
         "brand": "G-Shock",
         "category": "Watches",
         "images": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GA/GA2/GA-2100-1A1/assets/GA-2100-1A1_Seq01.png.transform/main-visual-sp/image.png"
     },
     {
-        "title": " Grant Stainless Steel Quartz",
-        "description": "Rose gold-tone stainless steel case with navy blue sunray dial; genuine navy blue leather band with adjustable buckle closure",
+        "title": "Grant Stainless Steel Quartz",
+        "description": "Rose gold-tone stainless steel case with navy blue sunray dial",
         "price": 100 ,
         "brand": "Fossil",
         "category": "Watches",
         "images":  "https://m.media-amazon.com/images/I/816CeVsSkAL._AC_UX679_.jpg"  
     },
     {
-        "title": "Chronograph Diamond Swiss Luxury ",
-        "description": "The watch case & bracelet is crafted from polished stainless steel, dazzling diamond set bezel, white pearl dial",
+        "title": "Chronograph Diamond Swiss Luxury",
+        "description": "The watch case & bracelet is crafted from polished stainless steel",
         "price": 1600,
         "brand": "Michele Deco",
         "category": "Watches",
@@ -265,7 +337,7 @@
     },
     {
         "title": "Air King",
-        "description": "The Oyster Perpetual Air-King pays tribute to the pioneers of flight and the Oyster's roles in the epic story of aviation.",
+        "description": "The Oyster Perpetual Air-King pays tribute to the pioneers of flight",
         "price": 7450,
         "brand": "Rolex",
         "category": "Watches",
@@ -273,15 +345,15 @@
     },
     {
         "title": "Miller",
-        "description": " An oversized tonal Double T within a gold dial. It is finished with a braided leather band, inspired by the artistry of basket-weaving.",
+        "description": "A tonal Double T within a gold dial and stainless steel strap",
         "price": 250 ,
         "brand": "Tory Burch",
         "category": "Watches",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/miller-watch--luggage-leather-gold-tone-stainless-steel-front.TB_144616_000_SLFRO.pdp-720x819.jpg"
+        "images":  "https://mobile.yoox.com/images/items/50/50253179OT_14_f.jpg"
     },
     {
         "title": "Intrepid Sport",
-        "description": "Features scratch and scrape resistant, sapphire-coated curved glass, and three subdials to display the day, date, and also a 24-hour function.",
+        "description": "Three subdials to display the day, date, and also a 24-hour function",
         "price": 200,
         "brand": "Ralph Christian",
         "category": "Watches",
@@ -289,7 +361,7 @@
     },
     {
         "title": "Maestro-233",
-        "description": "Good looking, functional, dependable, we create Maestro in ten variants depending on case color paired with available colors of custom silicone bands",
+        "description": "Good looking, functional, and dependable",
         "price": 450,
         "brand": "Giorgio Milano",
         "category": "Watches",
@@ -297,7 +369,7 @@
     },
     {
         "title": "Swiss Bold",
-        "description": "A timeless and masculine leather watch with a minimalist design from Movado's Bold Access collection",
+        "description": "A timeless and masculine leather watch with a minimalist design",
         "price": 350,
         "brand": "Movado",
         "category": "Watches",
@@ -305,47 +377,55 @@
     },
     {
         "title": "Chrono XL Classic",
-        "description": "Classic is a great watch for those looking for a sporty and elegant chronograph, with Swiss technology at an unbeatable price.",
+        "description": "Sporty and elegant chronograph with Swiss technology",
         "price": 400,
         "brand": "Tissot",
         "category": "Watches",
         "images":  "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T116.617.11.047.01_R_1.png?im=Resize=(850,850)"
     },
     {
-        "title": "Dive Watch",
-        "description": "For Cruise 2019, the Gucci Dive watch blends the casual look of a logo-embossed rubber strap with a symbolic motif of the House: the Kingsnake. The serpentine motif is framed by a yellow gold PVD case",
-        "price": 1750,
-        "brand": "Gucci",
+        "title": "Casio 10 Year Battery",
+        "description": "100m water resistant watch with a 10-year battery life",
+        "price": 28,
+        "brand": "Casio",
         "category": "Watches",
-        "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659392243/559817_I8610_8757_001_100_0000_Light-Gucci-Dive-watch-45mm.jpg"
+        "images": "https://m.media-amazon.com/images/I/618sFNQTZYL._AC_UY741_.jpg"
+    },
+    {
+        "title": "Women's Bracelet Watch",
+        "description": "Mineral crystal lens; Green dial with rose gold-tone hands and Roman numerals",
+        "price": 0,
+        "brand": "22",
+        "category": "Watches",
+        "images": "https://m.media-amazon.com/images/I/81xCpb+RC1L._AC_UY741_.jpg"
+    },
+    {
+        "title": "Santos-Dumont Automatic",
+        "description": "31.4mm large 18-karat white gold and alligator band",
+        "price": 12100,
+        "brand": "Cartier",
+        "category": "Watches",
+        "images": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTO91nx1abeU0KnRVR0VliUfcRGuv4EOfweUM54jdu-QIEkjHSak1gExDgM942Z2qlhbA52Lh0gwwt8POmkjsBbSZgcC6LxZnPmEYTrkQAoh_1POhvpbzu6&usqp=CAE"
     },
     {
         "title": "DiorXtrem MU",
-        "description": "bold sportswear look combined with an innovative and technical design",
+        "description": "Bold sportswear look combined with an innovative and technical design",
         "price": 650,
         "brand": "Dior",
         "category": "Sunglasses",
-        "images":  "https://media.dior.com/couture/ecommerce/media/catalog/product/X/Y/1609783831_XTRMMUAT_10B8_E01_ZH.jpg"
-    },
-    {
-        "title": "Burberry Eyewear Shield Frame",
-        "description": "Made in Italy black and gold",
-        "price": 176,
-        "brand": "Burberry",
-        "category": "Sunglasses",
-        "images":  "https://img-static.tradesy.com/item/27056646/burberry-black-logomania-4291-shield-gold-mirrored-be4291s-unisex-sunglasses-0-1-650-650.jpg"
+        "images":  "https://cdn.shopify.com/s/files/1/0272/9158/2548/products/DM40016U_01A_08_41741792-c21a-4b20-ad07-9a5813189b59_1080x.jpg?v=1631536361"
     },
     {
         "title": "Shadow Square",
-        "description": "sleek and sporty shape is complemented by a striking mirror lens. Polished Monogram Flowers appear at the end pieces",
+        "description": "Sleek and sporty shape, striking mirror lens, polished Monogram Flowers",
         "price": 575,
         "brand": "Louis Vuitton",
         "category": "Sunglasses",
         "images": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-shadow-square-sunglasses-s00-sunglasses--Z1844U_PM2_Front%20view.jpg?wid={IMG_WIDTH}&hei={IMG_HEIGHT}"
     },
     {
-        "title": "Waimea ",
-        "description": "The striking mask-shaped frame is enlivened with Monogram-patterned lenses for a bold twist",
+        "title": "Waimea",
+        "description": "Striking mask-shaped frame is enlivened with Monogram-patterned lenses",
         "price":640 ,
         "brand": "Louis Vuitton",
         "category": "Sunglasses",
@@ -353,15 +433,79 @@
     },
     {
         "title": "Aviator Flash",
-        "description": "Flash Lenses reinvented the standards of the market with its unique teardrop shape and flash lens combination.",
+        "description": "Unique teardrop shape and flash lens combination",
         "price": 190,
         "brand": "Ray Ban",
         "category": "Sunglasses",
-        "images":  "https://images.ray-ban.com/is/image/RayBan/8053672339000__STD__shad__qt.png?impolicy=RB_Product&width=2048&bgc=%23f2f2f2"
+        "images":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkeujfPUfxRBQvhKd898BbSLElaCByoHxHPA&usqp=CAU"
+    },    
+    {
+        "title": "Polarized",
+        "description": "These fashion sunglasses are also a great accessory to wear with clothes",
+        "price": 10,
+        "brand": "Winlove",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/512g4QUqNhL._AC_US1000_.jpg"
+    },
+    {
+        "title": "Emerge Active",
+        "description": "ChromaPop polarized lenses cut glare and enhance color and contrast",
+        "price": 200,
+        "brand": "Smith",
+        "category": "Sunglasses",
+        "images": "https://www.smithoptics.com/dw/image/v2/BDPZ_PRD/on/demandware.static/-/Sites-smith-master-catalog/default/dw19059d8a/images/hi-res/20444908656L5_01.png?sw=700&sh=700&sm=fit"
+    },
+    {
+        "title": "Sports Polarized Sunglasses",
+        "description": "FEISEDY Polarized lenses add special coatings to the lenses that filter the glare of the sun",
+        "price": 22,
+        "brand": "FEISEDY",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/51BHcTw41BL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Square Sunglasses Polarized",
+        "description": "Constructed with premium resin materials and reinforced metal hinges",
+        "price": 10,
+        "brand": "Joopin",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/519NQwNO96L._AC_UY535_.jpg"
+    },
+    {
+        "title": "VE4369 Sunglasses",
+        "description": "The perfect, luxury accessory for absolutely any occasion",
+        "price": 150,
+        "brand": "Versace",
+        "category": "Sunglasses",
+        "images": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKR47fZHz3pkVQUYU6YvaKxUZUFy8NdOiMcLwHXQqoYTAR5DQAdZTrSQLRcQSLBIba85RSOI4C4lagrBsUofPgFWMu7AyATMFCX6QtGpo2W57RtvVLzYjk_Q"
+    },
+    {
+        "title": "Polarized Sports Sunglasses",
+        "description": "Ideal for usage by motorcycle and cycling, and any other outdoor activities",
+        "price": 17,
+        "brand": "FAGUMA",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/61iJcBgbUtL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Hippie Round Sunglasses",
+        "description": "Two colors of vintage, trendy sunglasses to accessorize any iconic look",
+        "price": 15,
+        "brand": "Joopin",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/51jvkOX45kL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Retro Vintage Sunglasses",
+        "description": "This 4-pack of rectangular sunglasses can block UVA and UVB radiation",
+        "price": 19,
+        "brand": "Tskestvy",
+        "category": "Sunglasses",
+        "images": "https://m.media-amazon.com/images/I/61Q2rKXEGJL._AC_UY741_.jpg"
     },
     {
         "title": "Cozy Coupe",
-        "description": "The original ride-on Cozy Coupe is guaranteed to bring your todder fun, enjoyment, and play",
+        "description": "Guaranteed to bring your todder fun, enjoyment, and play",
         "price": 64,
         "brand": "Little Tikes",
         "category": "Toys",
@@ -369,7 +513,7 @@
     },
     {
         "title": "Lightning McQueen Offroad RC",
-        "description": "Lightning McQueen makes his return to the track in radio control form in this 1:14 scale RC inspired by Disney/Pixar Cars!",
+        "description": "1:14 scale RC inspired by Disney/Pixar Cars",
         "price": 45,
         "brand": "Disney Pixar Cars",
         "category": "Toys",
@@ -377,7 +521,7 @@
     },
     {
         "title": "42083 Race Car Building Kit",
-        "description": "The perfect gift for car lovers and future engineers! Build and experience a quintessential collectible sports car  the LEGO Technic Bugatti Chiron",
+        "description": "Build and experience a quintessential collectible sports car",
         "price": 430,
         "brand": "Lego",
         "category": "Toys",
@@ -385,7 +529,7 @@
     },
     {
         "title": "Scepter 24 Mountain Bike",
-        "description": "Steel mountain frame with suspension fork to smooth bumps and increase control on the trail",
+        "description": "Steel mountain frame with suspension fork",
         "price": 230,
         "brand": "Mongoose ",
         "category": "Toys",
@@ -393,31 +537,87 @@
     },
     {
         "title": "TotSports Basketball",
-        "description": "Your little one will start learning sports and active play early with this TotSports basketball hoop and basketball",
+        "description": "Basketball hoop and basketball to teach your kid sports at an early age",
         "price": 30,
         "brand": "Little Tikes",
         "category": "Toys",
         "images":  "https://cfcdn.zulily.com/images/cache/product/1692x2030/572329/zu101219813_main_tm1660660632.jpg"
     },
     {
-        "title": "Market X Smiley Chenille Patch Trucker Hat",
-        "description": "Classic look trucker hat by Market with a Smiley patch accent at the front. Mesh paneled cap with an adjustable snap closure and a curved brim",
+        "title": "Play-Doh Modeling Compound",
+        "description": "10 cans of creative fun – kids can get creative with just the right colors",
+        "price": 8,
+        "brand": "Play-Doh",
+        "category": "Toys",
+        "images":  "https://m.media-amazon.com/images/I/81xV+D1OkGL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Fidget Cube",
+        "description": "Infinity Cube is made from premium anodized aluminum alloy,CNC machined",
+        "price": 19,
+        "brand": "JOEYANK",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/71pfW7hly5L._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Pokémon Assorted Cards",
+        "description": "50 random regular and energy cards from every series",
+        "price": 5,
+        "brand": "Pokemon",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61VJWSztDcL._AC_SL1022_.jpg"
+    },
+    {
+        "title": "Oball Shaker Rattle Toy",
+        "description": "Colorful rattle beads create fun sounds to entertain and delight baby",
+        "price": 4,
+        "brand": "Bright Starts",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61vCn24QwwL._SL1500_.jpg"
+    },
+    {
+        "title": "Reversible Octopus Plushie",
+        "description": "Relieve stress by letting the Reversible Plushie tell how you are feeling",
+        "price": 15,
+        "brand": "TeeTurtle",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61iz16NvptS._AC_SL1200_.jpg"
+    },
+    {
+        "title": "LCD Writing Tablet",
+        "description": "Designed with super cute Dinosaur pattern, LCD writing tablet is a perfect learning toy",
+        "price": 14,
+        "brand": "ORSEN",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/61OWTDHny6L._AC_SL1500_.jpg"
+    },
+    {
+        "title": "The Original Slinky",
+        "description": "Classic metal slinky, 2.75-inches in diameter",
+        "price": 4,
+        "brand": "Just Play",
+        "category": "Toys",
+        "images": "https://m.media-amazon.com/images/I/91jLIfnfDnL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Market X Smiley Trucker Hat",
+        "description": "Mesh paneled cap with an adjustable snap closure and a curved brim",
         "price": 45,
         "brand": "Market X Smiley",
         "category": "Hats",
-        "images":  "https://images.urbndata.com/is/image/UrbanOutfitters/76150903_020_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=1314"
+        "images":  "https://cdn.shopify.com/s/files/1/1149/5724/products/smiley-vintage-trucker-hat-hats-aviator-nation-os-neon-blue-591705_1200x.jpg?v=1639734963"
     },
     {
         "title": "Bass Pro Shops Mesh Trucker Cap",
-        "description": "This fishing hat features a screen-printed Bass Pro Shops logo on the front and is a sharp-looking addition to your hat collection",
+        "description": "This fishing hat features a screen-printed Bass Pro Shops logo",
         "price": 6,
         "brand": "Bass Pro Shops",
         "category": "Hats",
         "images":  "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_limit,dpr_1.0,f_auto,h_1697,q_auto,w_1600/c_limit,h_1697,w_1600/v1/ProductImages/600/fuchsia_28333_main?pgw=1"
     },
     {
-        "title": "Carhartt Blackberry Knit Cuffed Beanie",
-        "description": "Rib knit quality for extra warmth and comfort with signature Carhartt label on the front",
+        "title": "Carhartt Knit Cuffed Beanie",
+        "description": "Rib knit quality for extra warmth and comfort",
         "price": 16,
         "brand": "Carhartt",
         "category": "Hats",
@@ -432,24 +632,80 @@
         "images":  "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmN449zTh7s8BFBI-t-uJqVMZj2lqklmKwgE9pt6HWAN6FLiY4a-7fxvCi4fJpX0mvcIG5Mv6I6aBuohdCABRhUfS_oVpO&usqp=CAY"
     },
     {
-        "title": "Nike Sportswear Bucket Hat Light Bone",
-        "description": "Bucket hat with washed twill fabric on the crown, sweatband to help keep you cool and dry, and embroidered Nike graphic at center front",
+        "title": "Nike Sportswear Bucket Hat",
+        "description": "Bucket hat with washed twill fabric on the crown",
         "price": 22,
         "brand": "Nike",
         "category": "Hats",
-        "images":  "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYxDAl522b-gSOlH3HUtOVA3rgG800IQNJm4YJ2pHIGb2OzDQQC_hHs-7if4T_UbGRD0F-MgiCZg3KyGo2vtVQ_g6lBZRvnw&usqp=CAY"
+        "images":  "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nidc3967-072-1.jpg"
+    },
+    {
+        "title": "Fanny Pack Hat",
+        "description": "The cap-sac folds into a pouch to store in your pocket",
+        "price": 23,
+        "brand": "Cap-sac",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/51fMlJqKg8L._AC_UX679_.jpg"
+    },
+    {
+        "title": "Superlite Relaxed Fit Hat",
+        "description": "This adidas cap is your go-to for everyday running and training",
+        "price": 24,
+        "brand": "adidas",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/71eHXFsetiS._AC_UX679_.jpg"
+    },
+    {
+        "title": "Unisex Baseball Cap",
+        "description": "Made with 100% cotton to ensuring lightweight, durable and comfortable fit",
+        "price": 11,
+        "brand": "Mommy Jennie",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/61mZIH1VFGL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Wide Brim Straw Panama Hat",
+        "description": "Cute and lightweight, breathable and comfortable for the hot summer weather",
+        "price": 21,
+        "brand": "Lanzom",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/71KgWVcNO1L._AC_UX679_.jpg"
+    },
+    {
+        "title": "Columbia Bora Booney",
+        "description": "The tight weave construction offers lasting sun protection against the full spectrum of sunshine",
+        "price": 26,
+        "brand": "Columbia",
+        "category": "Hats",
+        "images": "https://m.media-amazon.com/images/I/71dZ2e3am8L._AC_UX679_.jpg"
+    },
+    {
+        "title": "Wool Rib Beanie",
+        "description": "This ribbed wool beanie is topped with a plush pompom of faux fur",
+        "price": 305,
+        "brand": "Moncler",
+        "category": "Hats",
+        "images": "https://n.nordstrommedia.com/id/sr3/94910d1b-7380-43cc-9593-5fbee4972525.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196&dpr=2"
+    },
+    {
+        "title": "Aerogram Cotton Cap",
+        "description": "A sleek, monochromatic baseball cap with matte details",
+        "price": 635,
+        "brand": "Louis Vuitton",
+        "category": "Hats",
+        "images": "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-aerogram-cotton-cap-s00-hats-and-gloves--M77124_PM2_Front%20view.png?wid=2048&hei=2048"
     },
     {
         "title": "Orizaba Short Down Jacket",
-        "description": "A contemporary take on a classic men's down jacket, the Orizaba short puffer is crafted from nylon laqué",
+        "description": "A classic men's down jacket crafted from nylon laqué",
         "price": 2095,
         "brand": "Moncler",
         "category": "Jackets",
-        "images":  "https://moncler-cdn.thron.com/delivery/public/image/moncler/H20911A002745963V999_R/dpx6uv/std/0x0/H20911A002745963V999_R.jpg"
+        "images":  "https://cdna.lystit.com/520/650/n/photos/moncler/f50a5cdf/moncler-Black-Orizaba-Short-Down-Jacket.jpeg"
     },
     {
         "title": "Shelburne Parka Heritage",
-        "description": "This thigh-length Shelburne Parka is the perfect jacket for those frigid days when you require maximum protection",
+        "description": "This thigh-length parka is perfect for those frigid days",
         "price": 1495,
         "brand": "Canada Goose",
         "category": "Jackets",
@@ -457,26 +713,82 @@
     },
     {
         "title": "Check Cropped Puffer Jacket",
-        "description": "A cropped puffer jacket generously filled with goose down and feathers, highlighted with an exploded check pattern",
+        "description": "Cropped puffer jacket generously filled with goose down and feathers",
         "price": 1650,
         "brand": "Burberry",
         "category": "Jackets",
-        "images":  "https://assets.burberry.com/is/image/Burberryltd/659D0B1F-0FCD-4220-A818-2091FB8E1B3E?$BBY_V2_SL_1x1$&wid=998&hei=998"
+        "images":  "https://images.lvrcdn.com/BigRetina74I/5CE/002_f8b76136-a79b-41c6-8635-62c11c3e3256.JPG"
     },
     {
-        "title": "Ultra Light Down Jacket (2021 edition)",
-        "description": "Thin, light and warm down jacket. Attention to detail balances design and comfort",
+        "title": "Ultra Light Down Jacket",
+        "description": "Thin, light and warm down jacket with durable water-repellent coating",
         "price": 40,
         "brand": "Uniqlo",
         "category": "Jackets",
-        "images":  "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/443318/item/goods_30_443318.jpg?width=425"
+        "images":  "https://image.uniqlo.com/UQ/ST3/us/imagesother/featurepages/20FW-ULD/w-uld-jacket.png"
     },
     {
-        "title": "Men's '92 Retro Anniversary Nuptse Jacket",
-        "description": "With a throwback design, a relaxed, boxy fit, and 700-fill down insulation, you can rely on the durable and time-tested warmth to help you get where you're going",
+        "title": "Retro Anniversary Nuptse Jacket",
+        "description": "Relaxed, boxy fit, and 700-fill down insulation, time-tested for warmth",
         "price": 350,
         "brand": "The North Face",
         "category": "Jackets",
-        "images":  "https://images.thenorthface.com/is/image/TheNorthFace/NF0A7WWB_682_altfront?wid=1300&hei=1510&fmt=jpeg&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"
+        "images":  "https://is4.revolveassets.com/images/p4/n/z/TACF-MO133_V1.jpg"
+    },
+    {
+        "title": "Fleece Hooded Duck Shirt Jacket",
+        "description": "Thin, light and warm down jacket",
+        "price": 64,
+        "brand": "Dickies",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/51oxUkSU6QL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Denim Trucker Jacket",
+        "description": "Girl's denim trucker jacket with a point collar and long sleeves",
+        "price": 28,
+        "brand": "Levi's",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/819TFXP1ZYL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Lightweight Bleeker Down Jacket",
+        "description": "A lightweight layer to keep the chill off your back",
+        "price": 166,
+        "brand": "Polo Ralph Lauren",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/61bZ5YTS1SL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "title": "Casual Suit Blazer Jacket",
+        "description": "Modern fashion lightweight suit jacket blazer with notch lapel and one button closure",
+        "price": 56,
+        "brand": "Coofandy",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/81oB6BonnYL._AC_UY879_.jpg"
+    },
+    {
+        "title": "Urban NY Fashion Bomber Jacket",
+        "description": "Men streetwear bomber jacket, a modern outdoor lightweight windbreaker",
+        "price": 33,
+        "brand": "SCREENSHOT",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/81V8SsbmbLL._AC_UY879_.jpg"
+    },
+    {
+        "title": "Shawl Collar Wool Blend Coat",
+        "description": "Pair with jeans or shorts for a easy-going also elegant look",
+        "price": 89,
+        "brand": "CHICWISH",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/61YbsLpWOoL._AC_UX679_.jpg"
+    },
+    {
+        "title": "Faux Leather Motorcycle Jacket",
+        "description": "Brown leather jacket for women with a removal knit hood and front panel with exposed zipper",
+        "price": 0,
+        "brand": "79",
+        "category": "Jackets",
+        "images": "https://m.media-amazon.com/images/I/61uQD0e-wAL._AC_UX679_.jpg"
     }
 ]
