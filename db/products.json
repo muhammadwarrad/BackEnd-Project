@@ -53,7 +53,7 @@
         "price": 1784,
         "brand": "Sony",
         "category": "Technology",
-        "images":  "https://m.media-amazon.com/images/I/91KZbi-CbzL.jpg"
+        "images":  "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6453/6453206cv12d.jpg"
     },
     {        
         "title": "UQ9000 Series",
@@ -89,7 +89,7 @@
     },
     {
         "title": "Raycon",
-        "description": "The Best Features for Low Prices",
+        "description": "Our most compact wireless earbuds deliver crisp and powerful beats for your everyday grind",
         "price": 80,
         "brand": "Raycon",
         "category": "Technology",
@@ -129,7 +129,7 @@
     },
     {
         "title": "Women's Screener Sneaker",
-        "description": "Features GG canvas with crystals",
+        "description": "The Screener is designed in a mix of ivory leather and white and silver light GG lamé",
         "price": 1050,
         "brand": "Gucci",
         "category": "Shoes",
@@ -237,7 +237,7 @@
         "price": 1150,
         "brand": "Gucci",
         "category": "Bags",
-        "images":  "https://images.stockx.com/images/Gucci-Ophidia-GG-Belt-Bag-Medium-Beige-Ebony.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&trimcolor=ffffff&updated_at=1606323405" 
+        "images":  "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/10619104_fpx.tif?op_sharpen=1&wid=350&fit=fit,1&$filtersm$" 
     },
     {
         "title": "Small Eleanor Bag",
@@ -289,11 +289,11 @@
     },
     {
         "title": "Miller",
-        "description": "An oversized tonal Double T within a gold dial and braided leather band",
+        "description": "A tonal Double T within a gold dial and stainless steel strap",
         "price": 250 ,
         "brand": "Tory Burch",
         "category": "Watches",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/miller-watch--luggage-leather-gold-tone-stainless-steel-front.TB_144616_000_SLFRO.pdp-720x819.jpg"
+        "images":  "https://mobile.yoox.com/images/items/50/50253179OT_14_f.jpg"
     },
     {
         "title": "Intrepid Sport",
@@ -326,6 +326,30 @@
         "brand": "Tissot",
         "category": "Watches",
         "images":  "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T116.617.11.047.01_R_1.png?im=Resize=(850,850)"
+    },
+    {
+        "title": "Casio 10 Year Battery",
+        "description": "100m water resistant watch with a 10-year battery life",
+        "price": 28,
+        "brand": "Casio",
+        "category": "Watches",
+        "images": "https://m.media-amazon.com/images/I/618sFNQTZYL._AC_UY741_.jpg"
+    },
+    {
+        "title": "Women's Bracelet Watch",
+        "description": "Mineral crystal lens; Green dial with rose gold-tone hands and Roman numerals",
+        "price": 0,
+        "brand": "22",
+        "category": "Watches",
+        "images": "https://m.media-amazon.com/images/I/81xCpb+RC1L._AC_UY741_.jpg"
+    },
+    {
+        "title": "Santos-Dumont Automatic",
+        "description": "31.4mm large 18-karat white gold and alligator band",
+        "price": 12100,
+        "brand": "Cartier",
+        "category": "Watches",
+        "images": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTO91nx1abeU0KnRVR0VliUfcRGuv4EOfweUM54jdu-QIEkjHSak1gExDgM942Z2qlhbA52Lh0gwwt8POmkjsBbSZgcC6LxZnPmEYTrkQAoh_1POhvpbzu6&usqp=CAE"
     },
     {
         "title": "DiorXtrem MU",
@@ -410,8 +434,8 @@
     {
         "title": "Hippie Round Sunglasses",
         "description": "Two colors of vintage, trendy sunglasses to accessorize any iconic look",
-        "price": 0,
-        "brand": "15",
+        "price": 15,
+        "brand": "Joopin",
         "category": "Sunglasses",
         "images": "https://m.media-amazon.com/images/I/51jvkOX45kL._AC_UX679_.jpg"
     },
@@ -578,10 +602,10 @@
     {
         "title": "Unisex Baseball Cap",
         "description": "Made with 100% cotton to ensuring lightweight, durable and comfortable fit",
-        "price": 12,
-        "brand": "LANGZHEN",
+        "price": 11,
+        "brand": "Mommy Jennie",
         "category": "Hats",
-        "images": "https://m.media-amazon.com/images/I/81WcJnLUIXL._AC_UX679_.jpg"
+        "images": "https://m.media-amazon.com/images/I/61mZIH1VFGL._AC_UX679_.jpg"
     },
     {
         "title": "Wide Brim Straw Panama Hat",
@@ -640,15 +664,15 @@
         "images":  "https://images.lvrcdn.com/BigRetina74I/5CE/002_f8b76136-a79b-41c6-8635-62c11c3e3256.JPG"
     },
     {
-        "title": "Ultra Light Down Jacket (2021 edition)",
-        "description": "Thin, light and warm down jacket",
+        "title": "Ultra Light Down Jacket",
+        "description": "Thin, light and warm down jacket with durable water-repellent coating",
         "price": 40,
         "brand": "Uniqlo",
         "category": "Jackets",
         "images":  "https://image.uniqlo.com/UQ/ST3/us/imagesother/featurepages/20FW-ULD/w-uld-jacket.png"
     },
     {
-        "title": "Men's '92 Retro Anniversary Nuptse Jacket",
+        "title": "Retro Anniversary Nuptse Jacket",
         "description": "Relaxed, boxy fit, and 700-fill down insulation, time-tested for warmth",
         "price": 350,
         "brand": "The North Face",
