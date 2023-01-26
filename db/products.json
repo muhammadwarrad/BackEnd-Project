@@ -125,7 +125,7 @@
         "price": 110,
         "brand": "Nike",
         "category": "Shoes",
-        "images":  "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f094af40-f82f-4fb9-a246-e031bf6fc411/air-force-1-07-womens-shoes-b19lqD.png"
+        "images":  "https://cdn.shopify.com/s/files/1/0408/9909/products/Nike-Air-Force-1-_07---White-White-CW2288-111---07-06-22---Feature-JAYLEEN-JP.jpg?v=1657225444&width=1280"
     },
     {
         "title": "Women's Screener Sneaker",
@@ -133,7 +133,7 @@
         "price": 1050,
         "brand": "Gucci",
         "category": "Shoes",
-        "images":  "https://media.gucci.com/style/DarkGray_Center_0_0_980x980/1635525953/677423_9SFR0_2587_006_100_0000_Light-Womens-Screener-sneaker-with-crystals.jpg"
+        "images":  "https://image.s5a.com/is/image/saks/0400012689146_A1?wid=480&hei=640&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"
     },
     {
         "title": "Good Luck Trainer",
@@ -141,11 +141,11 @@
         "price": 179,
         "brand": "Tory Burch",
         "category": "Shoes",
-        "images":  "https://s7.toryburch.com/is/image/ToryBurch/style/good-luck-trainer-angle.TB_139868_960_SLANG.pdp-720x819.jpg"
+        "images":  "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000209016871_02_ks.jpg"
     },
     {
         "title": "Arch Fit",
-        "description": "All-day comfort and support",
+        "description": "Step-in to convenient walking comfort and support",
         "price": 90,
         "brand": "Skechers",
         "category": "Shoes",
@@ -157,15 +157,15 @@
         "price": 130,
         "brand": "Adidas",
         "category": "Shoes",
-        "images":  "https://www.rei.com/media/02b86469-2a85-4e80-9b8e-e2f2289973c7?size=784x588"     
+        "images":  "https://images.rogansshoes.com/t_1000/AD_FY9638_BLK2.JPG"     
     },
     {
         "title": "Portofino Cuore",
-        "description": "Small stars and the phrase “I love you” in various languages",
+        "description": "Featuring white/multicolour, calf leather, hand-painted design, and branded heel counter",
         "price": 825,
         "brand": "Dolce Gabbana",
         "category": "Shoes",
-        "images":  "https://us.dolcegabbana.com/dw/image/v2/BGRP_PRD/on/demandware.static/-/Sites-15/default/dw0a4aa55d/images/zoom/CS1558B7140_HWNN3_5.jpg?sw=742&sh=944&sm=fit"  
+        "images":  "https://cdn-images.farfetch-contents.com/18/64/42/48/18644248_40296456_1000.jpg"  
     },
     {
         "title": "Citysole High Top",
@@ -173,7 +173,7 @@
         "price": 97,
         "brand": "Coach",
         "category": "Shoes",
-        "images":  "https://images.coach.com/is/image/Coach/c9059_stn_a0?$mobileProduct$"  
+        "images":  "https://image.s5a.com/is/image/saks/0400015831897_STONE?wid=480&hei=640&qlt=90&resMode=sharp2&op_usm=0.9,1.0,8,0"  
     },
     {
         "title": "Adistar 1",
@@ -181,7 +181,7 @@
         "price": 70,
         "brand": "Adidas",
         "category": "Shoes",
-        "images":  "https://assets.adidas.com/images/w_600,f_auto,q_auto/c0b50b472e444d6eb308ae9900c5d0fb_9366/Adistar_1_Refuel_Running_Shoes_Blue_GX6864_05_standard.jpg"  
+        "images":  "https://img.runningwarehouse.com/watermark/rsg.php?path=/content_images/reviews/adidas_adistar_Review/ASASW01-R6.jpg&nw=296"  
     },
     {
         "title": "Cloud 5",
@@ -190,6 +190,30 @@
         "brand": "Nordstrom",
         "category": "Shoes",
         "images":  "https://cdn.shoplightspeed.com/shops/614969/files/45530171/650x750x2/on-mens-cloud-5.jpg"  
+    },
+    {
+        "title": "Charged Assert 9",
+        "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability",
+        "price": 60,
+        "brand": "Under Armour",
+        "category": "Shoes",
+        "images":  "https://media.kohlsimg.com/is/image/kohls/4976997_Black_White_White?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+        "title": "Racer Adapt 4.0",
+        "description": "Lightweight mesh upper with 3-color digital print delivers complete breathability",
+        "price": 50,
+        "brand": "Adidas",
+        "category": "Shoes",
+        "images":  "https://i8.amplience.net/s/scvl/113070_231951_SET/3?fmt=auto&$webPdpProduct$"
+    },
+    {
+        "title": "Classic White High Tops",
+        "description": "High top Chuck Taylors from the iconic ongoing collaboration with COMME des GARÇONS",
+        "price": 150,
+        "brand": "Converse",
+        "category": "Shoes",
+        "images": "https://cdn.shoplightspeed.com/shops/615307/files/33042385/1652x2313x1/comme-des-garcons-play-x-converse-classic-white-hi.jpg"
     },
     {
         "title": "Cool Student Backpack",
