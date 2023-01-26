@@ -256,6 +256,62 @@
         "images": "https://cdn.shopify.com/s/files/1/1539/8211/products/ContactSheet-3_copy_31c8e505-3337-4109-b17d-ece60c326120.jpg?v=1574603100"
     },
     {
+        "title": "Alliance II Sackpack",
+        "description": "Black string bag with drop mesh water bottle pockets",
+        "price": 17,
+        "brand": "Adidas",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/91YKb63wdfS._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Monogram Quilted Pouch",
+        "description": "A quilted leather key pouch with the classic gold YSL logo",
+        "price": 425,
+        "brand": "YSL",
+        "category": "Bags",
+        "images": "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/11759934_fpx.tif?$filterlrg$&wid=327"
+    },
+    {
+        "title": "Dakota Neoprene",
+        "description": "A water-resistant backpack with work and life balance",
+        "price": 195,
+        "brand": "Dagne Dover",
+        "category": "Bags",
+        "images": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1665603924-dagne-dover-dakota-neoprene-backpack-in-camel-1665603915.jpg"
+    },
+    {
+        "title": "Borealis",
+        "description": "The FlexVent suspension system features articulated shoulder straps, a rounded back panel",
+        "price": 100,
+        "brand": "The North Face",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/81YMkEF1nqL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Santiago",
+        "description": "Liner in main pocket to keep goods cold, it's an amazing bag",
+        "price": 20,
+        "brand": "Adidas",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/81oz6J24NJL._AC_SL1500_.jpg"
+    },
+    {
+        "title": "Unicorn Toddler Tote Bag",
+        "description": "The unicorn plush tote bag style is very fashion and cute, it will catch everyone's eye",
+        "price": 15,
+        "brand": "Moe's CEO",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/711O3-ySogL._AC_UY535_.jpg"
+    },
+    {
+        "title": "Kid's Logo Backpack",
+        "description": "port has the power to transform and empower us. makes an excellent athlete",
+        "price": 20,
+        "brand": "Puma",
+        "category": "Bags",
+        "images": "https://m.media-amazon.com/images/I/91D7Qi043PL._AC_SL1500_.jpg"
+    },
+    {
         "title": "GA2100",
         "description": "Round stainless steel case with a resin and carbon fiber overlay",
         "price": 83,
