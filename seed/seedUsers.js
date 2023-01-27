@@ -6,7 +6,7 @@ import Users from '../models/Users.js'
 // Create Function to Insert Data
 const insertData = async () => {
     // Clear current database
-    await db.dropDatabase();
+    await Users.deleteMany({});
     // Create database with current data
     await Users.create(userData);
     // Close database connection

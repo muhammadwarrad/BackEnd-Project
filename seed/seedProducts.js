@@ -6,7 +6,7 @@ import Products from '../models/Products.js'
 // Create Function to Insert Data
 const insertData = async () => {
     // Clear current database
-    await db.dropDatabase();
+    await Products.deleteMany({});
     // Create database with current data
     await Products.create(data);
     // Close database connection
