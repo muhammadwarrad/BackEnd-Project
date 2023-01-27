@@ -9,7 +9,7 @@ export const signUp = async (req, res) => {
   try {
     const { username, email, password } = req.body;
     const password_digest = await bcrypt.hash(password, SALT_ROUNDS);
-    const user = new User({
+    const user = new Users({
       username,
       email,
       password_digest,
@@ -31,7 +31,7 @@ export const signUp = async (req, res) => {
 export const signIn = async (req, res) => {
   try {
     const { email, password } = req.body;
-    const user = await User.findOne({ email: email }).select(
+    const user = await Users.findOne({ email: email }).select(
       "username email password_digest"
     );
     if (await bcrypt.compare(password, user.password_digest)) {
